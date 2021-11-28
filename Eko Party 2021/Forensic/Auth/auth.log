@@ -1,0 +1,2068 @@
+Oct  4 06:39:01 titan CRON[7047]: Accepted password for root from 80.10.50.5 port 63253 ssh2
+Oct  4 06:39:01 titan CRON[7047]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 06:39:01 titan CRON[7047]: pam_unix(cron:session): session closed for user root
+Oct  4 06:41:04 titan sshd[7119]: Did not receive identification string from 123.3.132.25
+Oct  4 06:47:01 titan CRON[7176]: Accepted password for root from 80.10.50.140 port 57275 ssh2
+Oct  4 06:47:01 titan CRON[7176]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 06:47:05 titan CRON[7176]: pam_unix(cron:session): session closed for user root
+Oct  4 06:53:14 titan sshd[7244]: Did not receive identification string from 3.120.241.98
+Oct  4 07:05:57 titan sshd[7382]: Did not receive identification string from 104.177.244.56
+Oct  4 07:09:01 titan CRON[7472]: Accepted password for root from 80.10.50.233 port 45081 ssh2
+Oct  4 07:09:01 titan CRON[7472]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 07:09:01 titan CRON[7472]: pam_unix(cron:session): session closed for user root
+Oct  4 07:17:01 titan CRON[7598]: Accepted password for root from 80.10.50.102 port 64180 ssh2
+Oct  4 07:17:01 titan CRON[7598]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 07:17:01 titan CRON[7598]: pam_unix(cron:session): session closed for user root
+Oct  4 07:39:01 titan CRON[7847]: Accepted password for root from 80.10.50.123 port 41100 ssh2
+Oct  4 07:39:01 titan CRON[7847]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 07:39:01 titan CRON[7847]: pam_unix(cron:session): session closed for user root
+Oct  4 07:55:37 titan sshd[8053]: Did not receive identification string from 8.164.180.101
+Oct  4 08:09:01 titan CRON[8178]: Accepted password for root from 80.10.50.248 port 63855 ssh2
+Oct  4 08:09:01 titan CRON[8178]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 08:09:01 titan CRON[8178]: pam_unix(cron:session): session closed for user root
+Oct  4 08:17:01 titan CRON[8316]: Accepted password for root from 80.10.50.36 port 41538 ssh2
+Oct  4 08:17:01 titan CRON[8316]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 08:17:01 titan CRON[8316]: pam_unix(cron:session): session closed for user root
+Oct  4 08:34:12 titan sshd[8515]: Did not receive identification string from 96.125.162.125
+Oct  4 08:39:01 titan CRON[8563]: Accepted password for root from 80.10.50.163 port 51473 ssh2
+Oct  4 08:39:01 titan CRON[8563]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 08:39:01 titan CRON[8563]: pam_unix(cron:session): session closed for user root
+Oct  4 08:46:54 titan sshd[8702]: Did not receive identification string from 114.50.38.159
+Oct  4 08:50:19 titan sshd[8742]: Did not receive identification string from 23.54.44.110
+Oct  4 09:09:01 titan CRON[8983]: Accepted password for root from 80.10.50.36 port 48551 ssh2
+Oct  4 09:09:01 titan CRON[8983]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 09:09:01 titan CRON[8983]: pam_unix(cron:session): session closed for user root
+Oct  4 09:12:19 titan sshd[9078]: Did not receive identification string from 23.32.240.80
+Oct  4 09:12:27 titan sshd[9080]: Did not receive identification string from 5.43.117.137
+Oct  4 09:17:01 titan CRON[9129]: Accepted password for root from 80.10.50.184 port 48690 ssh2
+Oct  4 09:17:01 titan CRON[9129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 09:17:01 titan CRON[9129]: pam_unix(cron:session): session closed for user root
+Oct  4 09:39:01 titan CRON[9418]: Accepted password for root from 80.10.50.91 port 54566 ssh2
+Oct  4 09:39:01 titan CRON[9418]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 09:39:01 titan CRON[9418]: pam_unix(cron:session): session closed for user root
+Oct  4 09:47:01 titan CRON[9542]: Accepted password for root from 80.10.50.34 port 64353 ssh2
+Oct  4 09:47:01 titan CRON[9542]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 09:47:01 titan CRON[9542]: pam_unix(cron:session): session closed for user root
+Oct  4 09:51:07 titan sshd[9584]: Did not receive identification string from 171.108.119.135
+Oct  4 10:05:09 titan sshd[9727]: Did not receive identification string from 167.181.76.71
+Oct  4 10:09:01 titan CRON[9771]: Accepted password for root from 80.10.50.177 port 52170 ssh2
+Oct  4 10:09:01 titan CRON[9771]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 10:09:01 titan CRON[9771]: pam_unix(cron:session): session closed for user root
+Oct  4 10:14:00 titan sshd[9897]: Did not receive identification string from 184.220.83.134
+Oct  4 10:14:16 titan sshd[9904]: Did not receive identification string from 112.111.36.212
+Oct  4 10:17:01 titan CRON[9931]: Accepted password for root from 80.10.50.236 port 57187 ssh2
+Oct  4 10:17:01 titan CRON[9931]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 10:17:01 titan CRON[9931]: pam_unix(cron:session): session closed for user root
+Oct  4 10:26:12 titan sshd[10036]: Did not receive identification string from 162.85.73.109
+Oct  4 10:39:01 titan CRON[10174]: Accepted password for root from 80.10.50.109 port 42350 ssh2
+Oct  4 10:39:01 titan CRON[10174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 10:39:01 titan CRON[10174]: pam_unix(cron:session): session closed for user root
+Oct  4 10:59:28 titan sshd[10418]: Did not receive identification string from 145.224.204.102
+Oct  4 11:09:01 titan CRON[10531]: Accepted password for root from 80.10.50.123 port 52114 ssh2
+Oct  4 11:09:01 titan CRON[10531]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 11:09:02 titan CRON[10531]: pam_unix(cron:session): session closed for user root
+Oct  4 11:17:01 titan CRON[10698]: Accepted password for root from 80.10.50.34 port 52228 ssh2
+Oct  4 11:17:01 titan CRON[10698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 11:17:01 titan CRON[10698]: pam_unix(cron:session): session closed for user root
+Oct  4 11:17:25 titan sshd[10707]: Did not receive identification string from 102.31.42.124
+Oct  4 11:37:16 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  4 11:37:16 titan systemd-logind[660]: Removed session c52.
+Oct  4 11:39:01 titan CRON[10964]: Accepted password for root from 80.10.50.103 port 49600 ssh2
+Oct  4 11:39:01 titan CRON[10964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 11:39:01 titan CRON[10964]: pam_unix(cron:session): session closed for user root
+Oct  4 11:48:16 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  4 11:48:16 titan systemd-logind[660]: Removed session c53.
+Oct  4 12:00:01 titan CRON[11270]: Accepted password for root from 80.10.50.68 port 53585 ssh2
+Oct  4 12:00:01 titan CRON[11270]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 12:00:01 titan CRON[11270]: pam_unix(cron:session): session closed for user root
+Oct  4 12:00:49 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  4 12:00:49 titan systemd-logind[660]: Removed session c54.
+Oct  4 12:09:01 titan CRON[11378]: Accepted password for root from 80.10.50.118 port 62712 ssh2
+Oct  4 12:09:01 titan CRON[11378]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 12:09:01 titan CRON[11378]: pam_unix(cron:session): session closed for user root
+Oct  4 12:17:01 titan CRON[11532]: Accepted password for root from 80.10.50.217 port 55282 ssh2
+Oct  4 12:17:01 titan CRON[11532]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 12:17:01 titan CRON[11532]: pam_unix(cron:session): session closed for user root
+Oct  4 12:19:00 titan sshd[11559]: Did not receive identification string from 23.250.193.239
+Oct  4 12:39:01 titan CRON[11755]: Accepted password for root from 80.10.50.8 port 59128 ssh2
+Oct  4 12:39:01 titan CRON[11755]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 12:39:01 titan CRON[11755]: pam_unix(cron:session): session closed for user root
+Oct  4 13:08:41 titan sshd[12132]: Did not receive identification string from 111.153.26.140
+Oct  4 13:09:01 titan CRON[12146]: Accepted password for root from 80.10.50.22 port 50775 ssh2
+Oct  4 13:09:01 titan CRON[12146]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 13:09:01 titan CRON[12146]: pam_unix(cron:session): session closed for user root
+Oct  4 13:17:01 titan CRON[12272]: Accepted password for root from 80.10.50.75 port 41522 ssh2
+Oct  4 13:17:01 titan CRON[12272]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 13:17:01 titan CRON[12272]: pam_unix(cron:session): session closed for user root
+Oct  4 13:39:01 titan CRON[12545]: Accepted password for root from 80.10.50.19 port 55880 ssh2
+Oct  4 13:39:01 titan CRON[12545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 13:39:01 titan CRON[12545]: pam_unix(cron:session): session closed for user root
+Oct  4 13:44:02 titan sshd[12639]: Did not receive identification string from 110.175.233.215
+Oct  4 14:01:03 titan sshd[12807]: Did not receive identification string from 103.235.154.228
+Oct  4 14:09:01 titan CRON[12903]: Accepted password for root from 80.10.50.186 port 56183 ssh2
+Oct  4 14:09:01 titan CRON[12903]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 14:09:02 titan CRON[12903]: pam_unix(cron:session): session closed for user root
+Oct  4 14:17:01 titan CRON[13035]: Accepted password for root from 80.10.50.234 port 62729 ssh2
+Oct  4 14:17:01 titan CRON[13035]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 14:17:01 titan CRON[13035]: pam_unix(cron:session): session closed for user root
+Oct  4 14:17:58 titan sshd[13052]: Did not receive identification string from 161.8.69.165
+Oct  4 14:39:01 titan CRON[13268]: Accepted password for root from 80.10.50.189 port 47201 ssh2
+Oct  4 14:39:01 titan CRON[13268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 14:39:01 titan CRON[13268]: pam_unix(cron:session): session closed for user root
+Oct  4 15:09:01 titan CRON[13672]: Accepted password for root from 80.10.50.116 port 50852 ssh2
+Oct  4 15:09:01 titan CRON[13672]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 15:09:01 titan CRON[13672]: pam_unix(cron:session): session closed for user root
+Oct  4 15:17:01 titan CRON[13809]: Accepted password for root from 80.10.50.120 port 49984 ssh2
+Oct  4 15:17:01 titan CRON[13809]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 15:17:01 titan CRON[13809]: pam_unix(cron:session): session closed for user root
+Oct  4 15:39:01 titan CRON[14036]: Accepted password for root from 80.10.50.124 port 44888 ssh2
+Oct  4 15:39:01 titan CRON[14036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 15:39:01 titan CRON[14036]: pam_unix(cron:session): session closed for user root
+Oct  4 15:55:20 titan sshd[14267]: Connection reset by 58.144.220.26 port 50121 [preauth]
+Oct  4 16:06:57 titan sshd[14394]: Connection reset by 1.26.199.166 port 51703 [preauth]
+Oct  4 16:09:01 titan CRON[14426]: Accepted password for root from 80.10.50.98 port 51828 ssh2
+Oct  4 16:09:01 titan CRON[14426]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 16:09:01 titan CRON[14426]: pam_unix(cron:session): session closed for user root
+Oct  4 16:17:01 titan CRON[14558]: Accepted password for root from 80.10.50.59 port 42285 ssh2
+Oct  4 16:17:01 titan CRON[14558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 16:17:01 titan CRON[14558]: pam_unix(cron:session): session closed for user root
+Oct  4 16:39:01 titan CRON[14811]: Accepted password for root from 80.10.50.72 port 58249 ssh2
+Oct  4 16:39:01 titan CRON[14811]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 16:39:01 titan CRON[14811]: pam_unix(cron:session): session closed for user root
+Oct  4 16:54:52 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  4 16:54:52 titan systemd-logind[660]: Removed session c55.
+Oct  4 17:09:01 titan CRON[15221]: Accepted password for root from 80.10.50.46 port 62328 ssh2
+Oct  4 17:09:01 titan CRON[15221]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 17:09:02 titan CRON[15221]: pam_unix(cron:session): session closed for user root
+Oct  4 17:17:01 titan CRON[15350]: Accepted password for root from 80.10.50.237 port 46597 ssh2
+Oct  4 17:17:01 titan CRON[15350]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 17:17:01 titan CRON[15350]: pam_unix(cron:session): session closed for user root
+Oct  4 17:17:04 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  4 17:17:04 titan systemd-logind[660]: Removed session c56.
+Oct  4 17:39:01 titan CRON[15602]: Accepted password for root from 80.10.50.12 port 46301 ssh2
+Oct  4 17:39:01 titan CRON[15602]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 17:39:01 titan CRON[15602]: pam_unix(cron:session): session closed for user root
+Oct  4 18:09:01 titan CRON[15954]: Accepted password for root from 80.10.50.151 port 54846 ssh2
+Oct  4 18:09:01 titan CRON[15954]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 18:09:01 titan CRON[15954]: pam_unix(cron:session): session closed for user root
+Oct  4 18:17:01 titan CRON[16091]: Accepted password for root from 80.10.50.138 port 57788 ssh2
+Oct  4 18:17:01 titan CRON[16091]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 18:17:01 titan CRON[16091]: pam_unix(cron:session): session closed for user root
+Oct  4 18:39:01 titan CRON[16380]: Accepted password for root from 80.10.50.177 port 46999 ssh2
+Oct  4 18:39:01 titan CRON[16380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 18:39:01 titan CRON[16380]: pam_unix(cron:session): session closed for user root
+Oct  4 19:09:01 titan CRON[16798]: Accepted password for root from 80.10.50.26 port 51309 ssh2
+Oct  4 19:09:01 titan CRON[16798]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 19:09:01 titan CRON[16798]: pam_unix(cron:session): session closed for user root
+Oct  4 19:17:01 titan CRON[16942]: Accepted password for root from 80.10.50.181 port 59517 ssh2
+Oct  4 19:17:01 titan CRON[16942]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 19:17:01 titan CRON[16942]: pam_unix(cron:session): session closed for user root
+Oct  4 19:39:01 titan CRON[17194]: Accepted password for root from 80.10.50.209 port 64098 ssh2
+Oct  4 19:39:01 titan CRON[17194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 19:39:01 titan CRON[17194]: pam_unix(cron:session): session closed for user root
+Oct  4 20:09:01 titan CRON[17591]: Accepted password for root from 80.10.50.171 port 50932 ssh2
+Oct  4 20:09:01 titan CRON[17591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 20:09:01 titan CRON[17591]: pam_unix(cron:session): session closed for user root
+Oct  4 20:17:01 titan CRON[17714]: Accepted password for root from 80.10.50.33 port 61196 ssh2
+Oct  4 20:17:01 titan CRON[17714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 20:17:01 titan CRON[17714]: pam_unix(cron:session): session closed for user root
+Oct  4 20:39:01 titan CRON[17952]: Accepted password for root from 80.10.50.155 port 40920 ssh2
+Oct  4 20:39:01 titan CRON[17952]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 20:39:02 titan CRON[17952]: pam_unix(cron:session): session closed for user root
+Oct  4 21:09:01 titan CRON[18339]: Accepted password for root from 80.10.50.203 port 61964 ssh2
+Oct  4 21:09:01 titan CRON[18339]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 21:09:01 titan CRON[18339]: pam_unix(cron:session): session closed for user root
+Oct  4 21:17:01 titan CRON[18489]: Accepted password for root from 80.10.50.193 port 55508 ssh2
+Oct  4 21:17:01 titan CRON[18489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 21:17:01 titan CRON[18489]: pam_unix(cron:session): session closed for user root
+Oct  4 21:36:53 titan sshd[18726]: Did not receive identification string from 115.148.223.104
+Oct  4 21:39:01 titan CRON[18753]: Accepted password for root from 80.10.50.98 port 62903 ssh2
+Oct  4 21:39:01 titan CRON[18753]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 21:39:01 titan CRON[18753]: pam_unix(cron:session): session closed for user root
+Oct  4 22:09:01 titan CRON[19098]: Accepted password for root from 80.10.50.146 port 51129 ssh2
+Oct  4 22:09:01 titan CRON[19098]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 22:09:01 titan CRON[19098]: pam_unix(cron:session): session closed for user root
+Oct  4 22:17:01 titan CRON[19239]: Accepted password for root from 80.10.50.55 port 57045 ssh2
+Oct  4 22:17:01 titan CRON[19239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 22:17:01 titan CRON[19239]: pam_unix(cron:session): session closed for user root
+Oct  4 22:20:33 titan sshd[19279]: Did not receive identification string from 92.114.223.224
+Oct  4 22:37:55 titan sshd[19484]: Did not receive identification string from 28.140.106.236
+Oct  4 22:39:01 titan CRON[19495]: Accepted password for root from 80.10.50.80 port 61324 ssh2
+Oct  4 22:39:01 titan CRON[19495]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 22:39:01 titan CRON[19495]: pam_unix(cron:session): session closed for user root
+Oct  4 23:04:52 titan sshd[19809]: Did not receive identification string from 47.11.74.139
+Oct  4 23:09:01 titan CRON[19849]: Accepted password for root from 80.10.50.203 port 58572 ssh2
+Oct  4 23:09:01 titan CRON[19849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 23:09:01 titan CRON[19849]: pam_unix(cron:session): session closed for user root
+Oct  4 23:17:01 titan CRON[19984]: Accepted password for root from 80.10.50.192 port 50864 ssh2
+Oct  4 23:17:01 titan CRON[19984]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 23:17:01 titan CRON[19984]: pam_unix(cron:session): session closed for user root
+Oct  4 23:39:01 titan CRON[20221]: Accepted password for root from 80.10.50.196 port 54642 ssh2
+Oct  4 23:39:01 titan CRON[20221]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  4 23:39:02 titan CRON[20221]: pam_unix(cron:session): session closed for user root
+Oct  5 00:00:01 titan CRON[20479]: Accepted password for root from 80.10.50.20 port 45505 ssh2
+Oct  5 00:00:01 titan CRON[20479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 00:00:01 titan CRON[20479]: pam_unix(cron:session): session closed for user root
+Oct  5 00:09:01 titan CRON[20568]: Accepted password for root from 80.10.50.24 port 53026 ssh2
+Oct  5 00:09:01 titan CRON[20568]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 00:09:01 titan CRON[20568]: pam_unix(cron:session): session closed for user root
+Oct  5 00:17:01 titan CRON[20709]: Accepted password for root from 80.10.50.75 port 59991 ssh2
+Oct  5 00:17:01 titan CRON[20709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 00:17:01 titan CRON[20709]: pam_unix(cron:session): session closed for user root
+Oct  5 00:39:01 titan CRON[21194]: Accepted password for root from 80.10.50.205 port 42037 ssh2
+Oct  5 00:39:01 titan CRON[21194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 00:39:01 titan CRON[21194]: pam_unix(cron:session): session closed for user root
+Oct  5 01:06:24 titan sshd[21534]: Did not receive identification string from 23.87.143.74
+Oct  5 01:09:01 titan CRON[21572]: Accepted password for root from 80.10.50.217 port 50588 ssh2
+Oct  5 01:09:01 titan CRON[21572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 01:09:01 titan CRON[21572]: pam_unix(cron:session): session closed for user root
+Oct  5 01:17:01 titan CRON[21704]: Accepted password for root from 80.10.50.148 port 65135 ssh2
+Oct  5 01:17:01 titan CRON[21704]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 01:17:01 titan CRON[21704]: pam_unix(cron:session): session closed for user root
+Oct  5 01:39:01 titan CRON[21936]: Accepted password for root from 80.10.50.226 port 56109 ssh2
+Oct  5 01:39:01 titan CRON[21936]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 01:39:01 titan CRON[21936]: pam_unix(cron:session): session closed for user root
+Oct  5 01:44:24 titan sshd[22043]: Did not receive identification string from 192.143.211.4
+Oct  5 02:09:01 titan CRON[22306]: Accepted password for root from 80.10.50.164 port 53489 ssh2
+Oct  5 02:09:01 titan CRON[22306]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 02:09:01 titan CRON[22306]: pam_unix(cron:session): session closed for user root
+Oct  5 02:17:01 titan CRON[22447]: Accepted password for root from 80.10.50.148 port 52622 ssh2
+Oct  5 02:17:01 titan CRON[22447]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 02:17:01 titan CRON[22447]: pam_unix(cron:session): session closed for user root
+Oct  5 02:39:01 titan CRON[22684]: Accepted password for root from 80.10.50.22 port 62947 ssh2
+Oct  5 02:39:01 titan CRON[22684]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 02:39:02 titan CRON[22684]: pam_unix(cron:session): session closed for user root
+Oct  5 02:55:24 titan sshd[22893]: Did not receive identification string from 105.68.165.90
+Oct  5 03:09:01 titan CRON[23061]: Accepted password for root from 80.10.50.130 port 40261 ssh2
+Oct  5 03:09:01 titan CRON[23061]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 03:09:01 titan CRON[23061]: pam_unix(cron:session): session closed for user root
+Oct  5 03:17:01 titan CRON[23196]: Accepted password for root from 80.10.50.91 port 48570 ssh2
+Oct  5 03:17:01 titan CRON[23196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 03:17:01 titan CRON[23196]: pam_unix(cron:session): session closed for user root
+Oct  5 03:39:01 titan CRON[23555]: Accepted password for root from 80.10.50.73 port 60388 ssh2
+Oct  5 03:39:01 titan CRON[23555]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 03:39:01 titan CRON[23555]: pam_unix(cron:session): session closed for user root
+Oct  5 03:40:09 titan sshd[23613]: Connection reset by 109.56.140.12 port 6089 [preauth]
+Oct  5 04:09:01 titan CRON[23933]: Accepted password for root from 80.10.50.228 port 56747 ssh2
+Oct  5 04:09:01 titan CRON[23933]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 04:09:01 titan CRON[23933]: pam_unix(cron:session): session closed for user root
+Oct  5 04:17:01 titan CRON[24081]: Accepted password for root from 80.10.50.225 port 45967 ssh2
+Oct  5 04:17:01 titan CRON[24081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 04:17:01 titan CRON[24081]: pam_unix(cron:session): session closed for user root
+Oct  5 04:39:01 titan CRON[24301]: Accepted password for root from 80.10.50.227 port 61264 ssh2
+Oct  5 04:39:01 titan CRON[24301]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 04:39:01 titan CRON[24301]: pam_unix(cron:session): session closed for user root
+Oct  5 05:09:01 titan CRON[24690]: Accepted password for root from 80.10.50.201 port 57959 ssh2
+Oct  5 05:09:01 titan CRON[24690]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 05:09:01 titan CRON[24690]: pam_unix(cron:session): session closed for user root
+Oct  5 05:17:01 titan CRON[24825]: Accepted password for root from 80.10.50.191 port 43464 ssh2
+Oct  5 05:17:01 titan CRON[24825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 05:17:01 titan CRON[24825]: pam_unix(cron:session): session closed for user root
+Oct  5 05:22:42 titan sshd[24889]: Connection reset by 55.236.115.104 port 1567 [preauth]
+Oct  5 05:39:01 titan CRON[25081]: Accepted password for root from 80.10.50.225 port 52450 ssh2
+Oct  5 05:39:01 titan CRON[25081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 05:39:01 titan CRON[25081]: pam_unix(cron:session): session closed for user root
+Oct  5 05:56:19 titan sshd[25303]: Did not receive identification string from 160.142.210.206
+Oct  5 06:09:01 titan CRON[25439]: Accepted password for root from 80.10.50.209 port 59550 ssh2
+Oct  5 06:09:01 titan CRON[25439]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 06:09:02 titan CRON[25439]: pam_unix(cron:session): session closed for user root
+Oct  5 06:17:01 titan CRON[25567]: Accepted password for root from 80.10.50.24 port 62544 ssh2
+Oct  5 06:17:01 titan CRON[25567]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 06:17:01 titan CRON[25567]: pam_unix(cron:session): session closed for user root
+Oct  5 06:25:01 titan CRON[25650]: Accepted password for root from 80.10.50.179 port 50347 ssh2
+Oct  5 06:25:01 titan CRON[25650]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 06:25:04 titan CRON[25650]: pam_unix(cron:session): session closed for user root
+Oct  5 06:39:01 titan CRON[25941]: Accepted password for root from 80.10.50.96 port 54241 ssh2
+Oct  5 06:39:01 titan CRON[25941]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 06:39:02 titan CRON[25941]: pam_unix(cron:session): session closed for user root
+Oct  5 06:47:06 titan sshd[26067]: Did not receive identification string from 122.161.252.247
+Oct  5 07:01:27 titan sshd[26238]: Did not receive identification string from 158.187.192.55
+Oct  5 07:09:01 titan CRON[26337]: Accepted password for root from 80.10.50.66 port 48191 ssh2
+Oct  5 07:09:01 titan CRON[26337]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 07:09:01 titan CRON[26337]: pam_unix(cron:session): session closed for user root
+Oct  5 07:10:34 titan sshd[26404]: Did not receive identification string from 55.229.14.39
+Oct  5 07:17:01 titan CRON[26480]: Accepted password for root from 80.10.50.102 port 64750 ssh2
+Oct  5 07:17:01 titan CRON[26480]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 07:17:01 titan CRON[26480]: pam_unix(cron:session): session closed for user root
+Oct  5 07:36:37 titan sshd[26682]: Did not receive identification string from 198.252.249.23
+Oct  5 07:38:55 titan sshd[26707]: Did not receive identification string from 190.36.126.93
+Oct  5 07:39:01 titan CRON[26709]: Accepted password for root from 80.10.50.161 port 55066 ssh2
+Oct  5 07:39:01 titan CRON[26709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 07:39:01 titan CRON[26709]: pam_unix(cron:session): session closed for user root
+Oct  5 07:48:47 titan sshd[26876]: Did not receive identification string from 112.198.30.105
+Oct  5 07:49:29 titan sshd[26882]: Did not receive identification string from 45.24.94.24
+Oct  5 08:09:01 titan CRON[27107]: Accepted password for root from 80.10.50.18 port 60112 ssh2
+Oct  5 08:09:01 titan CRON[27107]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 08:09:01 titan CRON[27107]: pam_unix(cron:session): session closed for user root
+Oct  5 08:17:01 titan CRON[27228]: Accepted password for root from 80.10.50.224 port 60287 ssh2
+Oct  5 08:17:01 titan CRON[27228]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 08:17:01 titan CRON[27228]: pam_unix(cron:session): session closed for user root
+Oct  5 08:33:16 titan sshd[27404]: Invalid user test from 45.54.34.81
+Oct  5 08:33:16 titan sshd[27404]: input_userauth_request: invalid user test [preauth]
+Oct  5 08:33:16 titan sshd[27404]: pam_unix(sshd:auth): check pass; user unknown
+Oct  5 08:33:16 titan sshd[27404]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.6.197.6
+Oct  5 08:33:19 titan sshd[27404]: Failed password for invalid user test from 124.77.126.153 port 41033 ssh2
+Oct  5 08:36:30 titan sshd[27441]: Did not receive identification string from 144.135.64.218
+Oct  5 08:39:01 titan CRON[27478]: Accepted password for root from 80.10.50.8 port 64353 ssh2
+Oct  5 08:39:01 titan CRON[27478]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 08:39:01 titan CRON[27478]: pam_unix(cron:session): session closed for user root
+Oct  5 09:05:10 titan sshd[27830]: Did not receive identification string from 123.179.6.229
+Oct  5 09:09:01 titan CRON[27891]: Accepted password for root from 80.10.50.96 port 47283 ssh2
+Oct  5 09:09:01 titan CRON[27891]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 09:09:01 titan CRON[27891]: pam_unix(cron:session): session closed for user root
+Oct  5 09:17:01 titan CRON[28011]: Accepted password for root from 80.10.50.23 port 56824 ssh2
+Oct  5 09:17:01 titan CRON[28011]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 09:17:01 titan CRON[28011]: pam_unix(cron:session): session closed for user root
+Oct  5 09:32:29 titan sshd[28189]: Did not receive identification string from 98.143.95.137
+Oct  5 09:39:01 titan CRON[28316]: Accepted password for root from 80.10.50.38 port 53639 ssh2
+Oct  5 09:39:01 titan CRON[28316]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 09:39:02 titan CRON[28316]: pam_unix(cron:session): session closed for user root
+Oct  5 09:42:57 titan sshd[28403]: Did not receive identification string from 196.188.126.91
+Oct  5 09:47:01 titan CRON[28448]: Accepted password for root from 80.10.50.11 port 51395 ssh2
+Oct  5 09:47:01 titan CRON[28448]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 09:47:01 titan CRON[28448]: pam_unix(cron:session): session closed for user root
+Oct  5 10:07:44 titan sshd[28657]: Did not receive identification string from 127.12.88.14
+Oct  5 10:09:01 titan CRON[28672]: Accepted password for root from 80.10.50.142 port 48631 ssh2
+Oct  5 10:09:01 titan CRON[28672]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 10:09:01 titan CRON[28672]: pam_unix(cron:session): session closed for user root
+Oct  5 10:17:01 titan CRON[28807]: Accepted password for root from 80.10.50.28 port 61528 ssh2
+Oct  5 10:17:01 titan CRON[28807]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 10:17:01 titan CRON[28807]: pam_unix(cron:session): session closed for user root
+Oct  5 10:27:38 titan sshd[28936]: Did not receive identification string from 113.218.120.113
+Oct  5 10:32:26 titan sshd[28993]: Did not receive identification string from 11.7.194.52
+Oct  5 10:39:01 titan CRON[29060]: Accepted password for root from 80.10.50.217 port 57583 ssh2
+Oct  5 10:39:01 titan CRON[29060]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 10:39:01 titan CRON[29060]: pam_unix(cron:session): session closed for user root
+Oct  5 10:44:22 titan sshd[29186]: Did not receive identification string from 109.163.199.130
+Oct  5 10:45:37 titan sshd[29203]: Did not receive identification string from 66.149.138.179
+Oct  5 11:09:01 titan CRON[29466]: Accepted password for root from 80.10.50.169 port 56733 ssh2
+Oct  5 11:09:01 titan CRON[29466]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 11:09:01 titan CRON[29466]: pam_unix(cron:session): session closed for user root
+Oct  5 11:17:01 titan CRON[29613]: Accepted password for root from 80.10.50.37 port 47738 ssh2
+Oct  5 11:17:01 titan CRON[29613]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 11:17:01 titan CRON[29613]: pam_unix(cron:session): session closed for user root
+Oct  5 11:39:01 titan CRON[29835]: Accepted password for root from 80.10.50.127 port 46880 ssh2
+Oct  5 11:39:01 titan CRON[29835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 11:39:01 titan CRON[29835]: pam_unix(cron:session): session closed for user root
+Oct  5 12:00:01 titan CRON[30112]: Accepted password for root from 80.10.50.235 port 47776 ssh2
+Oct  5 12:00:01 titan CRON[30112]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 12:00:01 titan CRON[30112]: pam_unix(cron:session): session closed for user root
+Oct  5 12:09:01 titan CRON[30226]: Accepted password for root from 80.10.50.12 port 40629 ssh2
+Oct  5 12:09:01 titan CRON[30226]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 12:09:01 titan CRON[30226]: pam_unix(cron:session): session closed for user root
+Oct  5 12:17:01 titan CRON[30362]: Accepted password for root from 80.10.50.33 port 64395 ssh2
+Oct  5 12:17:01 titan CRON[30362]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 12:17:01 titan CRON[30362]: pam_unix(cron:session): session closed for user root
+Oct  5 12:39:01 titan CRON[30584]: Accepted password for root from 80.10.50.174 port 43460 ssh2
+Oct  5 12:39:01 titan CRON[30584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 12:39:01 titan CRON[30584]: pam_unix(cron:session): session closed for user root
+Oct  5 13:09:02 titan CRON[31059]: Accepted password for root from 80.10.50.185 port 51255 ssh2
+Oct  5 13:09:02 titan CRON[31059]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 13:09:02 titan CRON[31059]: pam_unix(cron:session): session closed for user root
+Oct  5 13:17:01 titan CRON[31193]: Accepted password for root from 80.10.50.1 port 47108 ssh2
+Oct  5 13:17:01 titan CRON[31193]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 13:17:01 titan CRON[31193]: pam_unix(cron:session): session closed for user root
+Oct  5 13:39:01 titan CRON[31411]: Accepted password for root from 80.10.50.81 port 41357 ssh2
+Oct  5 13:39:01 titan CRON[31411]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 13:39:01 titan CRON[31411]: pam_unix(cron:session): session closed for user root
+Oct  5 13:42:32 titan sshd[31511]: Connection reset by 16.249.246.169 port 44535 [preauth]
+Oct  5 14:09:01 titan CRON[31775]: Accepted password for root from 80.10.50.59 port 50662 ssh2
+Oct  5 14:09:01 titan CRON[31775]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 14:09:01 titan CRON[31775]: pam_unix(cron:session): session closed for user root
+Oct  5 14:17:01 titan CRON[31902]: Accepted password for root from 80.10.50.232 port 48719 ssh2
+Oct  5 14:17:01 titan CRON[31902]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 14:17:01 titan CRON[31902]: pam_unix(cron:session): session closed for user root
+Oct  5 14:39:01 titan CRON[32144]: Accepted password for root from 80.10.50.248 port 53781 ssh2
+Oct  5 14:39:01 titan CRON[32144]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 14:39:01 titan CRON[32144]: pam_unix(cron:session): session closed for user root
+Oct  5 15:09:01 titan CRON[32547]: Accepted password for root from 80.10.50.238 port 48992 ssh2
+Oct  5 15:09:01 titan CRON[32547]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 15:09:01 titan CRON[32547]: pam_unix(cron:session): session closed for user root
+Oct  5 15:11:30 titan sshd[32610]: Connection reset by 17.87.3.137 port 24396 [preauth]
+Oct  5 15:17:01 titan CRON[32676]: Accepted password for root from 80.10.50.250 port 59687 ssh2
+Oct  5 15:17:01 titan CRON[32676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 15:17:01 titan CRON[32676]: pam_unix(cron:session): session closed for user root
+Oct  5 15:39:01 titan CRON[451]: Accepted password for root from 80.10.50.79 port 60469 ssh2
+Oct  5 15:39:01 titan CRON[451]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 15:39:01 titan CRON[451]: pam_unix(cron:session): session closed for user root
+Oct  5 16:09:01 titan CRON[844]: Accepted password for root from 80.10.50.189 port 59530 ssh2
+Oct  5 16:09:01 titan CRON[844]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 16:09:02 titan CRON[844]: pam_unix(cron:session): session closed for user root
+Oct  5 16:17:01 titan CRON[995]: Accepted password for root from 80.10.50.27 port 43577 ssh2
+Oct  5 16:17:01 titan CRON[995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 16:17:01 titan CRON[995]: pam_unix(cron:session): session closed for user root
+Oct  5 16:39:01 titan CRON[1278]: Accepted password for root from 80.10.50.185 port 46296 ssh2
+Oct  5 16:39:01 titan CRON[1278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 16:39:01 titan CRON[1278]: pam_unix(cron:session): session closed for user root
+Oct  5 17:09:01 titan CRON[1662]: Accepted password for root from 80.10.50.36 port 45279 ssh2
+Oct  5 17:09:01 titan CRON[1662]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 17:09:01 titan CRON[1662]: pam_unix(cron:session): session closed for user root
+Oct  5 17:17:01 titan CRON[1805]: Accepted password for root from 80.10.50.4 port 46720 ssh2
+Oct  5 17:17:01 titan CRON[1805]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 17:17:01 titan CRON[1805]: pam_unix(cron:session): session closed for user root
+Oct  5 17:39:01 titan CRON[2051]: Accepted password for root from 80.10.50.18 port 52564 ssh2
+Oct  5 17:39:01 titan CRON[2051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 17:39:01 titan CRON[2051]: pam_unix(cron:session): session closed for user root
+Oct  5 18:09:01 titan CRON[2446]: Accepted password for root from 80.10.50.55 port 51942 ssh2
+Oct  5 18:09:01 titan CRON[2446]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 18:09:01 titan CRON[2446]: pam_unix(cron:session): session closed for user root
+Oct  5 18:17:01 titan CRON[2584]: Accepted password for root from 80.10.50.84 port 54530 ssh2
+Oct  5 18:17:01 titan CRON[2584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 18:17:01 titan CRON[2584]: pam_unix(cron:session): session closed for user root
+Oct  5 18:39:01 titan CRON[2823]: Accepted password for root from 80.10.50.84 port 44921 ssh2
+Oct  5 18:39:01 titan CRON[2823]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 18:39:01 titan CRON[2823]: pam_unix(cron:session): session closed for user root
+Oct  5 19:09:01 titan CRON[3187]: Accepted password for root from 80.10.50.77 port 46900 ssh2
+Oct  5 19:09:01 titan CRON[3187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 19:09:01 titan CRON[3187]: pam_unix(cron:session): session closed for user root
+Oct  5 19:17:02 titan CRON[3320]: Accepted password for root from 80.10.50.3 port 46387 ssh2
+Oct  5 19:17:02 titan CRON[3320]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 19:17:02 titan CRON[3320]: pam_unix(cron:session): session closed for user root
+Oct  5 19:39:01 titan CRON[3572]: Accepted password for root from 80.10.50.222 port 43552 ssh2
+Oct  5 19:39:01 titan CRON[3572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 19:39:01 titan CRON[3572]: pam_unix(cron:session): session closed for user root
+Oct  5 20:09:01 titan CRON[3940]: Accepted password for root from 80.10.50.236 port 61555 ssh2
+Oct  5 20:09:01 titan CRON[3940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 20:09:01 titan CRON[3940]: pam_unix(cron:session): session closed for user root
+Oct  5 20:11:57 titan sshd[4025]: Did not receive identification string from 22.37.1.112
+Oct  5 20:17:01 titan CRON[4077]: Accepted password for root from 80.10.50.245 port 46689 ssh2
+Oct  5 20:17:01 titan CRON[4077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 20:17:01 titan CRON[4077]: pam_unix(cron:session): session closed for user root
+Oct  5 20:39:01 titan CRON[4323]: Accepted password for root from 80.10.50.212 port 51363 ssh2
+Oct  5 20:39:01 titan CRON[4323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 20:39:01 titan CRON[4323]: pam_unix(cron:session): session closed for user root
+Oct  5 21:09:01 titan CRON[4713]: Accepted password for root from 80.10.50.84 port 59141 ssh2
+Oct  5 21:09:01 titan CRON[4713]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 21:09:01 titan CRON[4713]: pam_unix(cron:session): session closed for user root
+Oct  5 21:14:33 titan sshd[4808]: Did not receive identification string from 17.110.178.62
+Oct  5 21:17:01 titan CRON[4843]: Accepted password for root from 80.10.50.188 port 64932 ssh2
+Oct  5 21:17:01 titan CRON[4843]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 21:17:01 titan CRON[4843]: pam_unix(cron:session): session closed for user root
+Oct  5 21:23:17 titan sshd[4954]: Did not receive identification string from 142.72.165.200
+Oct  5 21:39:01 titan CRON[5135]: Accepted password for root from 80.10.50.69 port 63810 ssh2
+Oct  5 21:39:01 titan CRON[5135]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 21:39:01 titan CRON[5135]: pam_unix(cron:session): session closed for user root
+Oct  5 21:50:01 titan sshd[5292]: Did not receive identification string from 104.183.245.235
+Oct  5 22:09:01 titan CRON[5477]: Accepted password for root from 80.10.50.100 port 51002 ssh2
+Oct  5 22:09:01 titan CRON[5477]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 22:09:01 titan CRON[5477]: pam_unix(cron:session): session closed for user root
+Oct  5 22:17:01 titan CRON[5620]: Accepted password for root from 80.10.50.232 port 45413 ssh2
+Oct  5 22:17:01 titan CRON[5620]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 22:17:01 titan CRON[5620]: pam_unix(cron:session): session closed for user root
+Oct  5 22:39:01 titan CRON[5872]: Accepted password for root from 80.10.50.19 port 44339 ssh2
+Oct  5 22:39:01 titan CRON[5872]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 22:39:02 titan CRON[5872]: pam_unix(cron:session): session closed for user root
+Oct  5 23:09:01 titan CRON[6247]: Accepted password for root from 80.10.50.206 port 41605 ssh2
+Oct  5 23:09:01 titan CRON[6247]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 23:09:01 titan CRON[6247]: pam_unix(cron:session): session closed for user root
+Oct  5 23:17:01 titan CRON[6370]: Accepted password for root from 80.10.50.154 port 65400 ssh2
+Oct  5 23:17:01 titan CRON[6370]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 23:17:01 titan CRON[6370]: pam_unix(cron:session): session closed for user root
+Oct  5 23:39:01 titan CRON[6649]: Accepted password for root from 80.10.50.176 port 49540 ssh2
+Oct  5 23:39:01 titan CRON[6649]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  5 23:39:01 titan CRON[6649]: pam_unix(cron:session): session closed for user root
+Oct  6 00:00:01 titan CRON[6909]: Accepted password for root from 80.10.50.158 port 44378 ssh2
+Oct  6 00:00:01 titan CRON[6909]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 00:00:01 titan CRON[6909]: pam_unix(cron:session): session closed for user root
+Oct  6 00:04:44 titan sshd[6959]: Did not receive identification string from 138.58.12.71
+Oct  6 00:09:01 titan CRON[7009]: Accepted password for root from 80.10.50.199 port 62418 ssh2
+Oct  6 00:09:01 titan CRON[7009]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 00:09:01 titan CRON[7009]: pam_unix(cron:session): session closed for user root
+Oct  6 00:17:01 titan CRON[7142]: Accepted password for root from 80.10.50.103 port 40897 ssh2
+Oct  6 00:17:01 titan CRON[7142]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 00:17:01 titan CRON[7142]: pam_unix(cron:session): session closed for user root
+Oct  6 00:39:01 titan CRON[7551]: Accepted password for root from 80.10.50.67 port 56545 ssh2
+Oct  6 00:39:01 titan CRON[7551]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 00:39:01 titan CRON[7551]: pam_unix(cron:session): session closed for user root
+Oct  6 01:09:01 titan CRON[7906]: Accepted password for root from 80.10.50.173 port 44734 ssh2
+Oct  6 01:09:01 titan CRON[7906]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 01:09:01 titan CRON[7906]: pam_unix(cron:session): session closed for user root
+Oct  6 01:17:01 titan CRON[8029]: Accepted password for root from 80.10.50.38 port 41545 ssh2
+Oct  6 01:17:01 titan CRON[8029]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 01:17:01 titan CRON[8029]: pam_unix(cron:session): session closed for user root
+Oct  6 01:37:20 titan sshd[8225]: Did not receive identification string from 25.54.103.215
+Oct  6 01:39:01 titan CRON[8245]: Accepted password for root from 80.10.50.21 port 60202 ssh2
+Oct  6 01:39:01 titan CRON[8245]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 01:39:02 titan CRON[8245]: pam_unix(cron:session): session closed for user root
+Oct  6 02:09:01 titan CRON[8588]: Accepted password for root from 80.10.50.56 port 40192 ssh2
+Oct  6 02:09:01 titan CRON[8588]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 02:09:01 titan CRON[8588]: pam_unix(cron:session): session closed for user root
+Oct  6 02:17:01 titan CRON[8729]: Accepted password for root from 80.10.50.216 port 60841 ssh2
+Oct  6 02:17:01 titan CRON[8729]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 02:17:01 titan CRON[8729]: pam_unix(cron:session): session closed for user root
+Oct  6 02:39:01 titan CRON[8963]: Accepted password for root from 80.10.50.145 port 55306 ssh2
+Oct  6 02:39:01 titan CRON[8963]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 02:39:01 titan CRON[8963]: pam_unix(cron:session): session closed for user root
+Oct  6 03:09:01 titan CRON[9342]: Accepted password for root from 80.10.50.69 port 61614 ssh2
+Oct  6 03:09:01 titan CRON[9342]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 03:09:01 titan CRON[9342]: pam_unix(cron:session): session closed for user root
+Oct  6 03:17:01 titan CRON[9470]: Accepted password for root from 80.10.50.105 port 62001 ssh2
+Oct  6 03:17:01 titan CRON[9470]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 03:17:01 titan CRON[9470]: pam_unix(cron:session): session closed for user root
+Oct  6 03:39:01 titan CRON[9845]: Accepted password for root from 80.10.50.138 port 59822 ssh2
+Oct  6 03:39:01 titan CRON[9845]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 03:39:01 titan CRON[9845]: pam_unix(cron:session): session closed for user root
+Oct  6 04:09:01 titan CRON[10181]: Accepted password for root from 80.10.50.205 port 47652 ssh2
+Oct  6 04:09:01 titan CRON[10181]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 04:09:01 titan CRON[10181]: pam_unix(cron:session): session closed for user root
+Oct  6 04:17:01 titan CRON[10320]: Accepted password for root from 80.10.50.17 port 59325 ssh2
+Oct  6 04:17:01 titan CRON[10320]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 04:17:01 titan CRON[10320]: pam_unix(cron:session): session closed for user root
+Oct  6 04:39:01 titan CRON[10566]: Accepted password for root from 80.10.50.24 port 61727 ssh2
+Oct  6 04:39:01 titan CRON[10566]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 04:39:02 titan CRON[10566]: pam_unix(cron:session): session closed for user root
+Oct  6 05:09:01 titan CRON[10913]: Accepted password for root from 80.10.50.199 port 55545 ssh2
+Oct  6 05:09:01 titan CRON[10913]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 05:09:01 titan CRON[10913]: pam_unix(cron:session): session closed for user root
+Oct  6 05:15:50 titan sshd[11035]: Did not receive identification string from 62.86.39.199
+Oct  6 05:17:01 titan CRON[11046]: Accepted password for root from 80.10.50.173 port 61469 ssh2
+Oct  6 05:17:01 titan CRON[11046]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 05:17:01 titan CRON[11046]: pam_unix(cron:session): session closed for user root
+Oct  6 05:39:01 titan CRON[11294]: Accepted password for root from 80.10.50.156 port 59141 ssh2
+Oct  6 05:39:01 titan CRON[11294]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 05:39:01 titan CRON[11294]: pam_unix(cron:session): session closed for user root
+Oct  6 06:09:01 titan CRON[11672]: Accepted password for root from 80.10.50.115 port 50381 ssh2
+Oct  6 06:09:01 titan CRON[11672]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 06:09:01 titan CRON[11672]: pam_unix(cron:session): session closed for user root
+Oct  6 06:17:01 titan CRON[11818]: Accepted password for root from 80.10.50.216 port 55383 ssh2
+Oct  6 06:17:01 titan CRON[11818]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 06:17:01 titan CRON[11818]: pam_unix(cron:session): session closed for user root
+Oct  6 06:25:01 titan CRON[11905]: Accepted password for root from 80.10.50.119 port 61573 ssh2
+Oct  6 06:25:01 titan CRON[11905]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 06:25:05 titan CRON[11905]: pam_unix(cron:session): session closed for user root
+Oct  6 06:39:01 titan CRON[12200]: Accepted password for root from 80.10.50.75 port 54415 ssh2
+Oct  6 06:39:01 titan CRON[12200]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 06:39:01 titan CRON[12200]: pam_unix(cron:session): session closed for user root
+Oct  6 06:39:36 titan proftpd: pam_unix(proftpd:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/ftpd12247 ruser=www-data rhost=102.24.145.236  user=www-data
+Oct  6 06:54:07 titan sshd[12393]: Did not receive identification string from 19.201.134.29
+Oct  6 07:00:31 titan sshd[12454]: Did not receive identification string from 163.152.198.42
+Oct  6 07:09:01 titan CRON[12578]: Accepted password for root from 80.10.50.246 port 60772 ssh2
+Oct  6 07:09:01 titan CRON[12578]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 07:09:01 titan CRON[12578]: pam_unix(cron:session): session closed for user root
+Oct  6 07:17:01 titan CRON[12696]: Accepted password for root from 80.10.50.100 port 55804 ssh2
+Oct  6 07:17:01 titan CRON[12696]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 07:17:01 titan CRON[12696]: pam_unix(cron:session): session closed for user root
+Oct  6 07:17:39 titan sshd[12710]: Did not receive identification string from 15.239.102.17
+Oct  6 07:29:40 titan sshd[12877]: Did not receive identification string from 58.201.177.177
+Oct  6 07:39:01 titan CRON[12965]: Accepted password for root from 80.10.50.157 port 57134 ssh2
+Oct  6 07:39:01 titan CRON[12965]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 07:39:01 titan CRON[12965]: pam_unix(cron:session): session closed for user root
+Oct  6 08:05:25 titan sshd[13278]: Did not receive identification string from 39.156.179.173
+Oct  6 08:09:01 titan CRON[13323]: Accepted password for root from 80.10.50.59 port 40577 ssh2
+Oct  6 08:09:01 titan CRON[13323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 08:09:01 titan CRON[13323]: pam_unix(cron:session): session closed for user root
+Oct  6 08:17:01 titan CRON[13454]: Accepted password for root from 80.10.50.92 port 60188 ssh2
+Oct  6 08:17:01 titan CRON[13454]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 08:17:01 titan CRON[13454]: pam_unix(cron:session): session closed for user root
+Oct  6 08:27:28 titan sshd[13560]: Did not receive identification string from 144.54.191.137
+Oct  6 08:39:01 titan CRON[13690]: Accepted password for root from 80.10.50.32 port 44916 ssh2
+Oct  6 08:39:01 titan CRON[13690]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 08:39:01 titan CRON[13690]: pam_unix(cron:session): session closed for user root
+Oct  6 08:42:50 titan sshd[13781]: Did not receive identification string from 79.57.185.84
+Oct  6 09:09:01 titan CRON[14064]: Accepted password for root from 80.10.50.42 port 42419 ssh2
+Oct  6 09:09:01 titan CRON[14064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 09:09:02 titan CRON[14064]: pam_unix(cron:session): session closed for user root
+Oct  6 09:17:01 titan CRON[14197]: Accepted password for root from 80.10.50.208 port 50949 ssh2
+Oct  6 09:17:01 titan CRON[14197]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 09:17:01 titan CRON[14197]: pam_unix(cron:session): session closed for user root
+Oct  6 09:28:55 titan sshd[14328]: Connection reset by 66.147.191.154 port 57469 [preauth]
+Oct  6 09:31:42 titan sshd[14361]: Did not receive identification string from 80.18.198.44
+Oct  6 09:38:08 titan sshd[14418]: Did not receive identification string from 169.189.67.206
+Oct  6 09:39:01 titan CRON[14436]: Accepted password for root from 80.10.50.218 port 58129 ssh2
+Oct  6 09:39:01 titan CRON[14436]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 09:39:01 titan CRON[14436]: pam_unix(cron:session): session closed for user root
+Oct  6 09:47:01 titan CRON[14562]: Accepted password for root from 80.10.50.189 port 49560 ssh2
+Oct  6 09:47:01 titan CRON[14562]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 09:47:01 titan CRON[14562]: pam_unix(cron:session): session closed for user root
+Oct  6 09:55:28 titan sshd[14638]: Did not receive identification string from 136.191.144.191
+Oct  6 10:07:47 titan sshd[14761]: Did not receive identification string from 144.17.115.54
+Oct  6 10:09:01 titan CRON[14785]: Accepted password for root from 80.10.50.230 port 57779 ssh2
+Oct  6 10:09:01 titan CRON[14785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 10:09:01 titan CRON[14785]: pam_unix(cron:session): session closed for user root
+Oct  6 10:17:01 titan CRON[14919]: Accepted password for root from 80.10.50.144 port 41857 ssh2
+Oct  6 10:17:01 titan CRON[14919]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 10:17:01 titan CRON[14919]: pam_unix(cron:session): session closed for user root
+Oct  6 10:33:45 titan sshd[15108]: Did not receive identification string from 148.21.99.139
+Oct  6 10:39:01 titan CRON[15214]: Accepted password for root from 80.10.50.254 port 61901 ssh2
+Oct  6 10:39:01 titan CRON[15214]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 10:39:01 titan CRON[15214]: pam_unix(cron:session): session closed for user root
+Oct  6 10:42:59 titan sshd[15318]: Did not receive identification string from 28.62.213.78
+Oct  6 11:09:01 titan CRON[15577]: Accepted password for root from 80.10.50.142 port 59582 ssh2
+Oct  6 11:09:01 titan CRON[15577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 11:09:01 titan CRON[15577]: pam_unix(cron:session): session closed for user root
+Oct  6 11:17:01 titan CRON[15718]: Accepted password for root from 80.10.50.122 port 48708 ssh2
+Oct  6 11:17:01 titan CRON[15718]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 11:17:01 titan CRON[15718]: pam_unix(cron:session): session closed for user root
+Oct  6 11:39:01 titan CRON[15952]: Accepted password for root from 80.10.50.225 port 41426 ssh2
+Oct  6 11:39:01 titan CRON[15952]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 11:39:01 titan CRON[15952]: pam_unix(cron:session): session closed for user root
+Oct  6 12:00:01 titan CRON[16222]: Accepted password for root from 80.10.50.54 port 45468 ssh2
+Oct  6 12:00:01 titan CRON[16222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 12:00:01 titan CRON[16222]: pam_unix(cron:session): session closed for user root
+Oct  6 12:09:01 titan CRON[16326]: Accepted password for root from 80.10.50.138 port 52365 ssh2
+Oct  6 12:09:01 titan CRON[16326]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 12:09:02 titan CRON[16326]: pam_unix(cron:session): session closed for user root
+Oct  6 12:17:01 titan CRON[16443]: Accepted password for root from 80.10.50.202 port 49124 ssh2
+Oct  6 12:17:01 titan CRON[16443]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 12:17:01 titan CRON[16443]: pam_unix(cron:session): session closed for user root
+Oct  6 12:39:01 titan CRON[16684]: Accepted password for root from 80.10.50.4 port 47073 ssh2
+Oct  6 12:39:01 titan CRON[16684]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 12:39:01 titan CRON[16684]: pam_unix(cron:session): session closed for user root
+Oct  6 13:09:01 titan CRON[17043]: Accepted password for root from 80.10.50.53 port 61570 ssh2
+Oct  6 13:09:01 titan CRON[17043]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 13:09:01 titan CRON[17043]: pam_unix(cron:session): session closed for user root
+Oct  6 13:17:01 titan CRON[17177]: Accepted password for root from 80.10.50.135 port 55789 ssh2
+Oct  6 13:17:01 titan CRON[17177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 13:17:01 titan CRON[17177]: pam_unix(cron:session): session closed for user root
+Oct  6 13:39:01 titan CRON[17398]: Accepted password for root from 80.10.50.177 port 42245 ssh2
+Oct  6 13:39:01 titan CRON[17398]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 13:39:01 titan CRON[17398]: pam_unix(cron:session): session closed for user root
+Oct  6 14:09:01 titan CRON[17765]: Accepted password for root from 80.10.50.58 port 54082 ssh2
+Oct  6 14:09:01 titan CRON[17765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 14:09:01 titan CRON[17765]: pam_unix(cron:session): session closed for user root
+Oct  6 14:17:01 titan CRON[17906]: Accepted password for root from 80.10.50.200 port 52863 ssh2
+Oct  6 14:17:01 titan CRON[17906]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 14:17:01 titan CRON[17906]: pam_unix(cron:session): session closed for user root
+Oct  6 14:39:01 titan CRON[18136]: Accepted password for root from 80.10.50.103 port 42485 ssh2
+Oct  6 14:39:01 titan CRON[18136]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 14:39:01 titan CRON[18136]: pam_unix(cron:session): session closed for user root
+Oct  6 15:09:01 titan CRON[18617]: Accepted password for root from 80.10.50.241 port 51336 ssh2
+Oct  6 15:09:01 titan CRON[18617]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 15:09:02 titan CRON[18617]: pam_unix(cron:session): session closed for user root
+Oct  6 15:11:59 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  6 15:11:59 titan systemd-logind[660]: Removed session c57.
+Oct  6 15:17:01 titan CRON[18831]: Accepted password for root from 80.10.50.170 port 50840 ssh2
+Oct  6 15:17:01 titan CRON[18831]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 15:17:01 titan CRON[18831]: pam_unix(cron:session): session closed for user root
+Oct  6 15:31:32 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  6 15:31:32 titan systemd-logind[660]: Removed session c58.
+Oct  6 15:39:01 titan CRON[19105]: Accepted password for root from 80.10.50.89 port 55804 ssh2
+Oct  6 15:39:01 titan CRON[19105]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 15:39:01 titan CRON[19105]: pam_unix(cron:session): session closed for user root
+Oct  6 16:00:35 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  6 16:00:36 titan systemd-logind[660]: Removed session c59.
+Oct  6 16:09:01 titan CRON[19521]: Accepted password for root from 80.10.50.204 port 57841 ssh2
+Oct  6 16:09:01 titan CRON[19521]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 16:09:01 titan CRON[19521]: pam_unix(cron:session): session closed for user root
+Oct  6 16:16:07 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  6 16:16:07 titan systemd-logind[660]: Removed session c61.
+Oct  6 16:17:01 titan CRON[19674]: Accepted password for root from 80.10.50.118 port 60833 ssh2
+Oct  6 16:17:01 titan CRON[19674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 16:17:01 titan CRON[19674]: pam_unix(cron:session): session closed for user root
+Oct  6 16:18:20 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  6 16:18:20 titan systemd-logind[660]: Removed session c62.
+Oct  6 16:26:07 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  6 16:26:07 titan systemd-logind[660]: Removed session c60.
+Oct  6 16:39:01 titan CRON[19966]: Accepted password for root from 80.10.50.31 port 40765 ssh2
+Oct  6 16:39:01 titan CRON[19966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 16:39:01 titan CRON[19966]: pam_unix(cron:session): session closed for user root
+Oct  6 17:09:01 titan CRON[20424]: Accepted password for root from 80.10.50.88 port 40406 ssh2
+Oct  6 17:09:01 titan CRON[20424]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 17:09:01 titan CRON[20424]: pam_unix(cron:session): session closed for user root
+Oct  6 17:17:01 titan CRON[20559]: Accepted password for root from 80.10.50.218 port 48341 ssh2
+Oct  6 17:17:01 titan CRON[20559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 17:17:01 titan CRON[20559]: pam_unix(cron:session): session closed for user root
+Oct  6 17:39:01 titan CRON[20834]: Accepted password for root from 80.10.50.196 port 45790 ssh2
+Oct  6 17:39:01 titan CRON[20834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 17:39:01 titan CRON[20834]: pam_unix(cron:session): session closed for user root
+Oct  6 18:04:25 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  6 18:04:25 titan systemd-logind[660]: Removed session c63.
+Oct  6 18:09:01 titan CRON[21488]: Accepted password for root from 80.10.50.32 port 62522 ssh2
+Oct  6 18:09:01 titan CRON[21488]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 18:09:01 titan CRON[21488]: pam_unix(cron:session): session closed for user root
+Oct  6 18:17:01 titan CRON[21641]: Accepted password for root from 80.10.50.128 port 59153 ssh2
+Oct  6 18:17:01 titan CRON[21641]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 18:17:01 titan CRON[21641]: pam_unix(cron:session): session closed for user root
+Oct  6 18:39:01 titan CRON[21913]: Accepted password for root from 80.10.50.25 port 46003 ssh2
+Oct  6 18:39:01 titan CRON[21913]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 18:39:02 titan CRON[21913]: pam_unix(cron:session): session closed for user root
+Oct  6 19:09:01 titan CRON[22291]: Accepted password for root from 80.10.50.8 port 59586 ssh2
+Oct  6 19:09:01 titan CRON[22291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 19:09:01 titan CRON[22291]: pam_unix(cron:session): session closed for user root
+Oct  6 19:17:01 titan CRON[22439]: Accepted password for root from 80.10.50.71 port 46740 ssh2
+Oct  6 19:17:01 titan CRON[22439]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 19:17:01 titan CRON[22439]: pam_unix(cron:session): session closed for user root
+Oct  6 19:39:01 titan CRON[22752]: Accepted password for root from 80.10.50.30 port 45867 ssh2
+Oct  6 19:39:01 titan CRON[22752]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 19:39:01 titan CRON[22752]: pam_unix(cron:session): session closed for user root
+Oct  6 20:09:01 titan CRON[23143]: Accepted password for root from 80.10.50.35 port 56876 ssh2
+Oct  6 20:09:01 titan CRON[23143]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 20:09:01 titan CRON[23143]: pam_unix(cron:session): session closed for user root
+Oct  6 20:17:01 titan CRON[23287]: Accepted password for root from 80.10.50.46 port 65279 ssh2
+Oct  6 20:17:01 titan CRON[23287]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 20:17:01 titan CRON[23287]: pam_unix(cron:session): session closed for user root
+Oct  6 20:39:01 titan CRON[23555]: Accepted password for root from 80.10.50.233 port 41603 ssh2
+Oct  6 20:39:01 titan CRON[23555]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 20:39:01 titan CRON[23555]: pam_unix(cron:session): session closed for user root
+Oct  6 21:09:01 titan CRON[23945]: Accepted password for root from 80.10.50.167 port 57533 ssh2
+Oct  6 21:09:01 titan CRON[23945]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 21:09:01 titan CRON[23945]: pam_unix(cron:session): session closed for user root
+Oct  6 21:17:01 titan CRON[24079]: Accepted password for root from 80.10.50.10 port 64754 ssh2
+Oct  6 21:17:01 titan CRON[24079]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 21:17:01 titan CRON[24079]: pam_unix(cron:session): session closed for user root
+Oct  6 21:39:01 titan CRON[24348]: Accepted password for root from 80.10.50.97 port 48184 ssh2
+Oct  6 21:39:01 titan CRON[24348]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 21:39:02 titan CRON[24348]: pam_unix(cron:session): session closed for user root
+Oct  6 22:09:01 titan CRON[24723]: Accepted password for root from 80.10.50.94 port 63227 ssh2
+Oct  6 22:09:01 titan CRON[24723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 22:09:01 titan CRON[24723]: pam_unix(cron:session): session closed for user root
+Oct  6 22:17:01 titan CRON[24863]: Accepted password for root from 80.10.50.63 port 50160 ssh2
+Oct  6 22:17:01 titan CRON[24863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 22:17:01 titan CRON[24863]: pam_unix(cron:session): session closed for user root
+Oct  6 22:27:19 titan sshd[24974]: Did not receive identification string from 6.230.57.206
+Oct  6 22:39:01 titan CRON[25139]: Accepted password for root from 80.10.50.48 port 55143 ssh2
+Oct  6 22:39:01 titan CRON[25139]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 22:39:01 titan CRON[25139]: pam_unix(cron:session): session closed for user root
+Oct  6 23:09:01 titan CRON[25610]: Accepted password for root from 80.10.50.143 port 46063 ssh2
+Oct  6 23:09:01 titan CRON[25610]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 23:09:01 titan CRON[25610]: pam_unix(cron:session): session closed for user root
+Oct  6 23:17:01 titan CRON[25761]: Accepted password for root from 80.10.50.81 port 52597 ssh2
+Oct  6 23:17:01 titan CRON[25761]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 23:17:01 titan CRON[25761]: pam_unix(cron:session): session closed for user root
+Oct  6 23:39:01 titan CRON[26010]: Accepted password for root from 80.10.50.52 port 60371 ssh2
+Oct  6 23:39:01 titan CRON[26010]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  6 23:39:01 titan CRON[26010]: pam_unix(cron:session): session closed for user root
+Oct  7 00:00:01 titan CRON[26278]: Accepted password for root from 80.10.50.124 port 51817 ssh2
+Oct  7 00:00:01 titan CRON[26278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 00:00:01 titan CRON[26278]: pam_unix(cron:session): session closed for user root
+Oct  7 00:09:01 titan CRON[26383]: Accepted password for root from 80.10.50.10 port 41067 ssh2
+Oct  7 00:09:01 titan CRON[26383]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 00:09:01 titan CRON[26383]: pam_unix(cron:session): session closed for user root
+Oct  7 00:17:01 titan CRON[26529]: Accepted password for root from 80.10.50.219 port 40342 ssh2
+Oct  7 00:17:01 titan CRON[26529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 00:17:01 titan CRON[26529]: pam_unix(cron:session): session closed for user root
+Oct  7 00:39:01 titan CRON[26940]: Accepted password for root from 80.10.50.43 port 43431 ssh2
+Oct  7 00:39:01 titan CRON[26940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 00:39:01 titan CRON[26940]: pam_unix(cron:session): session closed for user root
+Oct  7 01:09:01 titan CRON[27333]: Accepted password for root from 80.10.50.162 port 64505 ssh2
+Oct  7 01:09:01 titan CRON[27333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 01:09:02 titan CRON[27333]: pam_unix(cron:session): session closed for user root
+Oct  7 01:17:01 titan CRON[27462]: Accepted password for root from 80.10.50.188 port 57853 ssh2
+Oct  7 01:17:01 titan CRON[27462]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 01:17:01 titan CRON[27462]: pam_unix(cron:session): session closed for user root
+Oct  7 01:39:01 titan CRON[27710]: Accepted password for root from 80.10.50.61 port 65466 ssh2
+Oct  7 01:39:01 titan CRON[27710]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 01:39:01 titan CRON[27710]: pam_unix(cron:session): session closed for user root
+Oct  7 02:09:01 titan CRON[28086]: Accepted password for root from 80.10.50.44 port 57309 ssh2
+Oct  7 02:09:01 titan CRON[28086]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 02:09:01 titan CRON[28086]: pam_unix(cron:session): session closed for user root
+Oct  7 02:09:16 titan sshd[28141]: Did not receive identification string from 121.164.178.121
+Oct  7 02:17:01 titan CRON[28226]: Accepted password for root from 80.10.50.211 port 64331 ssh2
+Oct  7 02:17:01 titan CRON[28226]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 02:17:01 titan CRON[28226]: pam_unix(cron:session): session closed for user root
+Oct  7 02:17:05 titan sshd[28235]: Did not receive identification string from 58.48.109.226
+Oct  7 02:39:01 titan CRON[28477]: Accepted password for root from 80.10.50.36 port 56086 ssh2
+Oct  7 02:39:01 titan CRON[28477]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 02:39:01 titan CRON[28477]: pam_unix(cron:session): session closed for user root
+Oct  7 03:09:01 titan CRON[28852]: Accepted password for root from 80.10.50.189 port 43015 ssh2
+Oct  7 03:09:01 titan CRON[28852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 03:09:01 titan CRON[28852]: pam_unix(cron:session): session closed for user root
+Oct  7 03:17:01 titan CRON[28997]: Accepted password for root from 80.10.50.87 port 59235 ssh2
+Oct  7 03:17:01 titan CRON[28997]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 03:17:01 titan CRON[28997]: pam_unix(cron:session): session closed for user root
+Oct  7 03:24:20 titan proftpd: pam_unix(proftpd:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/ftpd29073 ruser=ftp rhost=50.76.15.251  user=ftp
+Oct  7 03:39:01 titan CRON[29307]: Accepted password for root from 80.10.50.70 port 44263 ssh2
+Oct  7 03:39:01 titan CRON[29307]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 03:39:01 titan CRON[29307]: pam_unix(cron:session): session closed for user root
+Oct  7 04:09:01 titan CRON[29664]: Accepted password for root from 80.10.50.2 port 55964 ssh2
+Oct  7 04:09:01 titan CRON[29664]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 04:09:02 titan CRON[29664]: pam_unix(cron:session): session closed for user root
+Oct  7 04:17:01 titan CRON[29797]: Accepted password for root from 80.10.50.51 port 52481 ssh2
+Oct  7 04:17:01 titan CRON[29797]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 04:17:01 titan CRON[29797]: pam_unix(cron:session): session closed for user root
+Oct  7 04:39:01 titan CRON[30031]: Accepted password for root from 80.10.50.134 port 58007 ssh2
+Oct  7 04:39:01 titan CRON[30031]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 04:39:01 titan CRON[30031]: pam_unix(cron:session): session closed for user root
+Oct  7 05:09:01 titan CRON[30416]: Accepted password for root from 80.10.50.235 port 58954 ssh2
+Oct  7 05:09:01 titan CRON[30416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 05:09:01 titan CRON[30416]: pam_unix(cron:session): session closed for user root
+Oct  7 05:17:01 titan CRON[30555]: Accepted password for root from 80.10.50.67 port 56283 ssh2
+Oct  7 05:17:01 titan CRON[30555]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 05:17:01 titan CRON[30555]: pam_unix(cron:session): session closed for user root
+Oct  7 05:39:01 titan CRON[30840]: Accepted password for root from 80.10.50.127 port 63137 ssh2
+Oct  7 05:39:01 titan CRON[30840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 05:39:01 titan CRON[30840]: pam_unix(cron:session): session closed for user root
+Oct  7 06:09:01 titan CRON[31278]: Accepted password for root from 80.10.50.249 port 52441 ssh2
+Oct  7 06:09:01 titan CRON[31278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 06:09:01 titan CRON[31278]: pam_unix(cron:session): session closed for user root
+Oct  7 06:17:01 titan CRON[31425]: Accepted password for root from 80.10.50.72 port 53998 ssh2
+Oct  7 06:17:01 titan CRON[31425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 06:17:01 titan CRON[31425]: pam_unix(cron:session): session closed for user root
+Oct  7 06:25:01 titan CRON[31505]: Accepted password for root from 80.10.50.163 port 41759 ssh2
+Oct  7 06:25:01 titan CRON[31505]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 06:25:05 titan CRON[31505]: pam_unix(cron:session): session closed for user root
+Oct  7 06:39:01 titan CRON[31798]: Accepted password for root from 80.10.50.208 port 52623 ssh2
+Oct  7 06:39:01 titan CRON[31798]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 06:39:01 titan CRON[31798]: pam_unix(cron:session): session closed for user root
+Oct  7 07:01:32 titan sshd[32103]: Did not receive identification string from 134.214.110.15
+Oct  7 07:09:01 titan CRON[32195]: Accepted password for root from 80.10.50.212 port 45045 ssh2
+Oct  7 07:09:01 titan CRON[32195]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 07:09:01 titan CRON[32195]: pam_unix(cron:session): session closed for user root
+Oct  7 07:14:08 titan sshd[32300]: Did not receive identification string from 79.58.48.16
+Oct  7 07:17:01 titan CRON[32341]: Accepted password for root from 80.10.50.223 port 40208 ssh2
+Oct  7 07:17:01 titan CRON[32341]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 07:17:01 titan CRON[32341]: pam_unix(cron:session): session closed for user root
+Oct  7 07:39:01 titan CRON[32587]: Accepted password for root from 80.10.50.6 port 45534 ssh2
+Oct  7 07:39:01 titan CRON[32587]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 07:39:01 titan CRON[32587]: pam_unix(cron:session): session closed for user root
+Oct  7 08:09:01 titan CRON[501]: Accepted password for root from 80.10.50.235 port 60848 ssh2
+Oct  7 08:09:01 titan CRON[501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 08:09:01 titan CRON[501]: pam_unix(cron:session): session closed for user root
+Oct  7 08:17:01 titan CRON[663]: Accepted password for root from 80.10.50.33 port 53716 ssh2
+Oct  7 08:17:01 titan CRON[663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 08:17:01 titan CRON[663]: pam_unix(cron:session): session closed for user root
+Oct  7 08:23:02 titan sshd[770]: Did not receive identification string from 33.203.138.27
+Oct  7 08:29:20 titan sshd[993]: Did not receive identification string from 189.230.12.82
+Oct  7 08:39:01 titan CRON[1362]: Accepted password for root from 80.10.50.165 port 41158 ssh2
+Oct  7 08:39:01 titan CRON[1362]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 08:39:01 titan CRON[1362]: pam_unix(cron:session): session closed for user root
+Oct  7 09:07:11 titan sshd[1770]: Did not receive identification string from 183.132.88.3
+Oct  7 09:09:01 titan CRON[1806]: Accepted password for root from 80.10.50.216 port 65065 ssh2
+Oct  7 09:09:01 titan CRON[1806]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 09:09:02 titan CRON[1806]: pam_unix(cron:session): session closed for user root
+Oct  7 09:17:01 titan CRON[1944]: Accepted password for root from 80.10.50.231 port 65192 ssh2
+Oct  7 09:17:01 titan CRON[1944]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 09:17:01 titan CRON[1944]: pam_unix(cron:session): session closed for user root
+Oct  7 09:39:01 titan CRON[2197]: Accepted password for root from 80.10.50.36 port 59575 ssh2
+Oct  7 09:39:01 titan CRON[2197]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 09:39:01 titan CRON[2197]: pam_unix(cron:session): session closed for user root
+Oct  7 09:47:01 titan CRON[2330]: Accepted password for root from 80.10.50.101 port 50815 ssh2
+Oct  7 09:47:01 titan CRON[2330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 09:47:01 titan CRON[2330]: pam_unix(cron:session): session closed for user root
+Oct  7 10:09:01 titan CRON[2575]: Accepted password for root from 80.10.50.178 port 44023 ssh2
+Oct  7 10:09:01 titan CRON[2575]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 10:09:01 titan CRON[2575]: pam_unix(cron:session): session closed for user root
+Oct  7 10:17:01 titan CRON[2710]: Accepted password for root from 80.10.50.193 port 50531 ssh2
+Oct  7 10:17:01 titan CRON[2710]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 10:17:01 titan CRON[2710]: pam_unix(cron:session): session closed for user root
+Oct  7 10:28:49 titan sshd[2838]: Did not receive identification string from 123.43.56.94
+Oct  7 10:33:21 titan sshd[2892]: Did not receive identification string from 37.62.16.56
+Oct  7 10:39:01 titan CRON[2954]: Accepted password for root from 80.10.50.228 port 44740 ssh2
+Oct  7 10:39:01 titan CRON[2954]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 10:39:01 titan CRON[2954]: pam_unix(cron:session): session closed for user root
+Oct  7 11:06:28 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  7 11:06:28 titan systemd-logind[660]: Removed session c64.
+Oct  7 11:09:01 titan CRON[3427]: Accepted password for root from 80.10.50.250 port 64021 ssh2
+Oct  7 11:09:01 titan CRON[3427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 11:09:01 titan CRON[3427]: pam_unix(cron:session): session closed for user root
+Oct  7 11:17:01 titan CRON[3577]: Accepted password for root from 80.10.50.68 port 50944 ssh2
+Oct  7 11:17:01 titan CRON[3577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 11:17:01 titan CRON[3577]: pam_unix(cron:session): session closed for user root
+Oct  7 11:39:01 titan CRON[3849]: Accepted password for root from 80.10.50.146 port 62259 ssh2
+Oct  7 11:39:01 titan CRON[3849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 11:39:01 titan CRON[3849]: pam_unix(cron:session): session closed for user root
+Oct  7 12:00:01 titan CRON[4123]: Accepted password for root from 80.10.50.161 port 55879 ssh2
+Oct  7 12:00:01 titan CRON[4123]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 12:00:01 titan CRON[4123]: pam_unix(cron:session): session closed for user root
+Oct  7 12:09:01 titan CRON[4238]: Accepted password for root from 80.10.50.240 port 50532 ssh2
+Oct  7 12:09:01 titan CRON[4238]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 12:09:02 titan CRON[4238]: pam_unix(cron:session): session closed for user root
+Oct  7 12:17:01 titan CRON[4365]: Accepted password for root from 80.10.50.134 port 40509 ssh2
+Oct  7 12:17:01 titan CRON[4365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 12:17:01 titan CRON[4365]: pam_unix(cron:session): session closed for user root
+Oct  7 12:39:01 titan CRON[4613]: Accepted password for root from 80.10.50.218 port 50765 ssh2
+Oct  7 12:39:01 titan CRON[4613]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 12:39:01 titan CRON[4613]: pam_unix(cron:session): session closed for user root
+Oct  7 13:09:01 titan CRON[5003]: Accepted password for root from 80.10.50.143 port 48851 ssh2
+Oct  7 13:09:01 titan CRON[5003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 13:09:01 titan CRON[5003]: pam_unix(cron:session): session closed for user root
+Oct  7 13:13:03 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  7 13:13:03 titan systemd-logind[660]: Removed session c65.
+Oct  7 13:17:01 titan CRON[5163]: Accepted password for root from 80.10.50.96 port 60950 ssh2
+Oct  7 13:17:01 titan CRON[5163]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 13:17:01 titan CRON[5163]: pam_unix(cron:session): session closed for user root
+Oct  7 13:39:01 titan CRON[5416]: Accepted password for root from 80.10.50.13 port 47525 ssh2
+Oct  7 13:39:01 titan CRON[5416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 13:39:01 titan CRON[5416]: pam_unix(cron:session): session closed for user root
+Oct  7 14:09:01 titan CRON[5799]: Accepted password for root from 80.10.50.87 port 40156 ssh2
+Oct  7 14:09:01 titan CRON[5799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 14:09:01 titan CRON[5799]: pam_unix(cron:session): session closed for user root
+Oct  7 14:17:01 titan CRON[5980]: Accepted password for root from 80.10.50.90 port 51295 ssh2
+Oct  7 14:17:01 titan CRON[5980]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 14:17:01 titan CRON[5980]: pam_unix(cron:session): session closed for user root
+Oct  7 14:39:01 titan CRON[6240]: Accepted password for root from 80.10.50.191 port 56092 ssh2
+Oct  7 14:39:01 titan CRON[6240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 14:39:01 titan CRON[6240]: pam_unix(cron:session): session closed for user root
+Oct  7 14:39:40 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  7 14:39:40 titan systemd-logind[660]: Removed session c66.
+Oct  7 15:09:01 titan CRON[6669]: Accepted password for root from 80.10.50.75 port 49371 ssh2
+Oct  7 15:09:01 titan CRON[6669]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 15:09:02 titan CRON[6669]: pam_unix(cron:session): session closed for user root
+Oct  7 15:17:01 titan CRON[6811]: Accepted password for root from 80.10.50.15 port 51060 ssh2
+Oct  7 15:17:01 titan CRON[6811]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 15:17:01 titan CRON[6811]: pam_unix(cron:session): session closed for user root
+Oct  7 15:39:01 titan CRON[7051]: Accepted password for root from 80.10.50.22 port 58800 ssh2
+Oct  7 15:39:01 titan CRON[7051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 15:39:01 titan CRON[7051]: pam_unix(cron:session): session closed for user root
+Oct  7 15:44:31 titan sshd[7182]: Did not receive identification string from 81.203.54.26
+Oct  7 16:09:01 titan CRON[7557]: Accepted password for root from 80.10.50.119 port 51803 ssh2
+Oct  7 16:09:01 titan CRON[7557]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 16:09:01 titan CRON[7557]: pam_unix(cron:session): session closed for user root
+Oct  7 16:09:05 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  7 16:09:05 titan systemd-logind[660]: Removed session c67.
+Oct  7 16:13:07 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  7 16:13:07 titan systemd-logind[660]: Removed session c68.
+Oct  7 16:17:01 titan CRON[7757]: Accepted password for root from 80.10.50.234 port 49675 ssh2
+Oct  7 16:17:01 titan CRON[7757]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 16:17:01 titan CRON[7757]: pam_unix(cron:session): session closed for user root
+Oct  7 16:39:01 titan CRON[8045]: Accepted password for root from 80.10.50.226 port 62529 ssh2
+Oct  7 16:39:01 titan CRON[8045]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 16:39:01 titan CRON[8045]: pam_unix(cron:session): session closed for user root
+Oct  7 17:09:01 titan CRON[8426]: Accepted password for root from 80.10.50.2 port 44115 ssh2
+Oct  7 17:09:01 titan CRON[8426]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 17:09:01 titan CRON[8426]: pam_unix(cron:session): session closed for user root
+Oct  7 17:17:01 titan CRON[8565]: Accepted password for root from 80.10.50.120 port 54915 ssh2
+Oct  7 17:17:01 titan CRON[8565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 17:17:01 titan CRON[8565]: pam_unix(cron:session): session closed for user root
+Oct  7 17:39:01 titan CRON[8849]: Accepted password for root from 80.10.50.192 port 51309 ssh2
+Oct  7 17:39:01 titan CRON[8849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 17:39:01 titan CRON[8849]: pam_unix(cron:session): session closed for user root
+Oct  7 18:09:01 titan CRON[9220]: Accepted password for root from 80.10.50.112 port 61804 ssh2
+Oct  7 18:09:01 titan CRON[9220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 18:09:01 titan CRON[9220]: pam_unix(cron:session): session closed for user root
+Oct  7 18:17:01 titan CRON[9360]: Accepted password for root from 80.10.50.200 port 44836 ssh2
+Oct  7 18:17:01 titan CRON[9360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 18:17:01 titan CRON[9360]: pam_unix(cron:session): session closed for user root
+Oct  7 18:39:01 titan CRON[9604]: Accepted password for root from 80.10.50.111 port 52994 ssh2
+Oct  7 18:39:01 titan CRON[9604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 18:39:01 titan CRON[9604]: pam_unix(cron:session): session closed for user root
+Oct  7 19:09:01 titan CRON[9987]: Accepted password for root from 80.10.50.235 port 43203 ssh2
+Oct  7 19:09:01 titan CRON[9987]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 19:09:01 titan CRON[9987]: pam_unix(cron:session): session closed for user root
+Oct  7 19:17:01 titan CRON[10141]: Accepted password for root from 80.10.50.182 port 57250 ssh2
+Oct  7 19:17:01 titan CRON[10141]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 19:17:01 titan CRON[10141]: pam_unix(cron:session): session closed for user root
+Oct  7 19:39:01 titan CRON[10397]: Accepted password for root from 80.10.50.47 port 57619 ssh2
+Oct  7 19:39:01 titan CRON[10397]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 19:39:01 titan CRON[10397]: pam_unix(cron:session): session closed for user root
+Oct  7 20:09:01 titan CRON[10816]: Accepted password for root from 80.10.50.225 port 63731 ssh2
+Oct  7 20:09:01 titan CRON[10816]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 20:09:01 titan CRON[10816]: pam_unix(cron:session): session closed for user root
+Oct  7 20:17:01 titan CRON[10964]: Accepted password for root from 80.10.50.239 port 44296 ssh2
+Oct  7 20:17:01 titan CRON[10964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 20:17:01 titan CRON[10964]: pam_unix(cron:session): session closed for user root
+Oct  7 20:39:01 titan CRON[11224]: Accepted password for root from 80.10.50.151 port 64954 ssh2
+Oct  7 20:39:01 titan CRON[11224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 20:39:01 titan CRON[11224]: pam_unix(cron:session): session closed for user root
+Oct  7 21:09:01 titan CRON[11613]: Accepted password for root from 80.10.50.149 port 42150 ssh2
+Oct  7 21:09:01 titan CRON[11613]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 21:09:01 titan CRON[11613]: pam_unix(cron:session): session closed for user root
+Oct  7 21:17:01 titan CRON[11762]: Accepted password for root from 80.10.50.70 port 52827 ssh2
+Oct  7 21:17:01 titan CRON[11762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 21:17:01 titan CRON[11762]: pam_unix(cron:session): session closed for user root
+Oct  7 21:39:01 titan CRON[12000]: Accepted password for root from 80.10.50.187 port 62518 ssh2
+Oct  7 21:39:01 titan CRON[12000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 21:39:02 titan CRON[12000]: pam_unix(cron:session): session closed for user root
+Oct  7 22:09:01 titan CRON[12361]: Accepted password for root from 80.10.50.183 port 43520 ssh2
+Oct  7 22:09:01 titan CRON[12361]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 22:09:01 titan CRON[12361]: pam_unix(cron:session): session closed for user root
+Oct  7 22:17:01 titan CRON[12504]: Accepted password for root from 80.10.50.220 port 43955 ssh2
+Oct  7 22:17:01 titan CRON[12504]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 22:17:01 titan CRON[12504]: pam_unix(cron:session): session closed for user root
+Oct  7 22:39:01 titan CRON[12802]: Accepted password for root from 80.10.50.146 port 51627 ssh2
+Oct  7 22:39:01 titan CRON[12802]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 22:39:01 titan CRON[12802]: pam_unix(cron:session): session closed for user root
+Oct  7 23:09:01 titan CRON[13199]: Accepted password for root from 80.10.50.124 port 49612 ssh2
+Oct  7 23:09:01 titan CRON[13199]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 23:09:01 titan CRON[13199]: pam_unix(cron:session): session closed for user root
+Oct  7 23:17:01 titan CRON[13352]: Accepted password for root from 80.10.50.246 port 43590 ssh2
+Oct  7 23:17:01 titan CRON[13352]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 23:17:01 titan CRON[13352]: pam_unix(cron:session): session closed for user root
+Oct  7 23:39:01 titan CRON[13642]: Accepted password for root from 80.10.50.84 port 58120 ssh2
+Oct  7 23:39:01 titan CRON[13642]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  7 23:39:01 titan CRON[13642]: pam_unix(cron:session): session closed for user root
+Oct  8 00:00:01 titan CRON[13909]: Accepted password for root from 80.10.50.65 port 46033 ssh2
+Oct  8 00:00:01 titan CRON[13909]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 00:00:01 titan CRON[13909]: pam_unix(cron:session): session closed for user root
+Oct  8 00:09:01 titan CRON[14021]: Accepted password for root from 80.10.50.230 port 56658 ssh2
+Oct  8 00:09:01 titan CRON[14021]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 00:09:01 titan CRON[14021]: pam_unix(cron:session): session closed for user root
+Oct  8 00:17:01 titan CRON[14158]: Accepted password for root from 80.10.50.224 port 52240 ssh2
+Oct  8 00:17:01 titan CRON[14158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 00:17:01 titan CRON[14158]: pam_unix(cron:session): session closed for user root
+Oct  8 00:39:01 titan CRON[14564]: Accepted password for root from 80.10.50.72 port 44812 ssh2
+Oct  8 00:39:01 titan CRON[14564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 00:39:02 titan CRON[14564]: pam_unix(cron:session): session closed for user root
+Oct  8 01:09:01 titan CRON[14962]: Accepted password for root from 80.10.50.191 port 42433 ssh2
+Oct  8 01:09:01 titan CRON[14962]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 01:09:01 titan CRON[14962]: pam_unix(cron:session): session closed for user root
+Oct  8 01:17:01 titan CRON[15104]: Accepted password for root from 80.10.50.115 port 49600 ssh2
+Oct  8 01:17:01 titan CRON[15104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 01:17:01 titan CRON[15104]: pam_unix(cron:session): session closed for user root
+Oct  8 01:39:01 titan CRON[15352]: Accepted password for root from 80.10.50.118 port 55251 ssh2
+Oct  8 01:39:01 titan CRON[15352]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 01:39:01 titan CRON[15352]: pam_unix(cron:session): session closed for user root
+Oct  8 02:09:01 titan CRON[15759]: Accepted password for root from 80.10.50.248 port 63681 ssh2
+Oct  8 02:09:01 titan CRON[15759]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 02:09:01 titan CRON[15759]: pam_unix(cron:session): session closed for user root
+Oct  8 02:17:01 titan CRON[15894]: Accepted password for root from 80.10.50.25 port 46203 ssh2
+Oct  8 02:17:01 titan CRON[15894]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 02:17:01 titan CRON[15894]: pam_unix(cron:session): session closed for user root
+Oct  8 02:39:01 titan CRON[16129]: Accepted password for root from 80.10.50.232 port 48097 ssh2
+Oct  8 02:39:01 titan CRON[16129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 02:39:01 titan CRON[16129]: pam_unix(cron:session): session closed for user root
+Oct  8 03:09:01 titan CRON[16522]: Accepted password for root from 80.10.50.202 port 41302 ssh2
+Oct  8 03:09:01 titan CRON[16522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 03:09:01 titan CRON[16522]: pam_unix(cron:session): session closed for user root
+Oct  8 03:15:03 titan sshd[16635]: Did not receive identification string from 142.38.69.55
+Oct  8 03:17:01 titan CRON[16661]: Accepted password for root from 80.10.50.201 port 45213 ssh2
+Oct  8 03:17:01 titan CRON[16661]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 03:17:01 titan CRON[16661]: pam_unix(cron:session): session closed for user root
+Oct  8 03:39:01 titan CRON[16977]: Accepted password for root from 80.10.50.147 port 44589 ssh2
+Oct  8 03:39:01 titan CRON[16977]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 03:39:01 titan CRON[16977]: pam_unix(cron:session): session closed for user root
+Oct  8 04:09:01 titan CRON[17363]: Accepted password for root from 80.10.50.141 port 46741 ssh2
+Oct  8 04:09:01 titan CRON[17363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 04:09:02 titan CRON[17363]: pam_unix(cron:session): session closed for user root
+Oct  8 04:17:01 titan CRON[17501]: Accepted password for root from 80.10.50.51 port 57935 ssh2
+Oct  8 04:17:01 titan CRON[17501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 04:17:01 titan CRON[17501]: pam_unix(cron:session): session closed for user root
+Oct  8 04:39:01 titan CRON[17747]: Accepted password for root from 80.10.50.171 port 58670 ssh2
+Oct  8 04:39:01 titan CRON[17747]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 04:39:01 titan CRON[17747]: pam_unix(cron:session): session closed for user root
+Oct  8 05:09:01 titan CRON[18152]: Accepted password for root from 80.10.50.110 port 64749 ssh2
+Oct  8 05:09:01 titan CRON[18152]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 05:09:01 titan CRON[18152]: pam_unix(cron:session): session closed for user root
+Oct  8 05:17:01 titan CRON[18309]: Accepted password for root from 80.10.50.205 port 41585 ssh2
+Oct  8 05:17:01 titan CRON[18309]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 05:17:01 titan CRON[18309]: pam_unix(cron:session): session closed for user root
+Oct  8 05:39:01 titan CRON[18558]: Accepted password for root from 80.10.50.163 port 42012 ssh2
+Oct  8 05:39:01 titan CRON[18558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 05:39:01 titan CRON[18558]: pam_unix(cron:session): session closed for user root
+Oct  8 05:53:58 titan proftpd: pam_unix(proftpd:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/ftpd18763 ruser=ftp rhost=mm-97-58-215-37.mfilial.dynamic.pppoe.byfly.by  user=ftp
+Oct  8 06:09:01 titan CRON[18942]: Accepted password for root from 80.10.50.178 port 47562 ssh2
+Oct  8 06:09:01 titan CRON[18942]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 06:09:01 titan CRON[18942]: pam_unix(cron:session): session closed for user root
+Oct  8 06:17:01 titan CRON[19081]: Accepted password for root from 80.10.50.65 port 62503 ssh2
+Oct  8 06:17:01 titan CRON[19081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 06:17:01 titan CRON[19081]: pam_unix(cron:session): session closed for user root
+Oct  8 06:25:01 titan CRON[19163]: Accepted password for root from 80.10.50.131 port 63069 ssh2
+Oct  8 06:25:01 titan CRON[19163]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 06:25:05 titan CRON[19163]: pam_unix(cron:session): session closed for user root
+Oct  8 06:39:01 titan CRON[19479]: Accepted password for root from 80.10.50.179 port 56661 ssh2
+Oct  8 06:39:01 titan CRON[19479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 06:39:02 titan CRON[19479]: pam_unix(cron:session): session closed for user root
+Oct  8 06:49:37 titan sshd[19647]: Did not receive identification string from 189.231.144.67
+Oct  8 07:09:01 titan CRON[19883]: Accepted password for root from 80.10.50.237 port 49367 ssh2
+Oct  8 07:09:01 titan CRON[19883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 07:09:01 titan CRON[19883]: pam_unix(cron:session): session closed for user root
+Oct  8 07:17:01 titan CRON[20017]: Accepted password for root from 80.10.50.224 port 40200 ssh2
+Oct  8 07:17:01 titan CRON[20017]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 07:17:01 titan CRON[20017]: pam_unix(cron:session): session closed for user root
+Oct  8 07:38:44 titan sshd[20250]: Did not receive identification string from 119.46.38.217
+Oct  8 07:39:01 titan CRON[20252]: Accepted password for root from 80.10.50.133 port 59426 ssh2
+Oct  8 07:39:01 titan CRON[20252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 07:39:01 titan CRON[20252]: pam_unix(cron:session): session closed for user root
+Oct  8 08:09:01 titan CRON[20674]: Accepted password for root from 80.10.50.69 port 42252 ssh2
+Oct  8 08:09:01 titan CRON[20674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 08:09:01 titan CRON[20674]: pam_unix(cron:session): session closed for user root
+Oct  8 08:17:01 titan CRON[20815]: Accepted password for root from 80.10.50.3 port 63059 ssh2
+Oct  8 08:17:01 titan CRON[20815]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 08:17:01 titan CRON[20815]: pam_unix(cron:session): session closed for user root
+Oct  8 08:29:38 titan sshd[20966]: Did not receive identification string from 178.86.247.199
+Oct  8 08:39:01 titan CRON[21070]: Accepted password for root from 80.10.50.74 port 43998 ssh2
+Oct  8 08:39:01 titan CRON[21070]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 08:39:01 titan CRON[21070]: pam_unix(cron:session): session closed for user root
+Oct  8 08:59:56 titan sshd[21365]: Did not receive identification string from 127.121.129.150
+Oct  8 09:09:01 titan CRON[21485]: Accepted password for root from 80.10.50.10 port 62324 ssh2
+Oct  8 09:09:01 titan CRON[21485]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 09:09:01 titan CRON[21485]: pam_unix(cron:session): session closed for user root
+Oct  8 09:17:01 titan CRON[21619]: Accepted password for root from 80.10.50.61 port 58722 ssh2
+Oct  8 09:17:01 titan CRON[21619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 09:17:01 titan CRON[21619]: pam_unix(cron:session): session closed for user root
+Oct  8 09:39:01 titan CRON[21893]: Accepted password for root from 80.10.50.232 port 60243 ssh2
+Oct  8 09:39:01 titan CRON[21893]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 09:39:01 titan CRON[21893]: pam_unix(cron:session): session closed for user root
+Oct  8 09:47:01 titan CRON[22018]: Accepted password for root from 80.10.50.35 port 62352 ssh2
+Oct  8 09:47:01 titan CRON[22018]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 09:47:02 titan CRON[22018]: pam_unix(cron:session): session closed for user root
+Oct  8 09:57:50 titan sshd[22137]: Did not receive identification string from 85.95.113.178
+Oct  8 10:09:01 titan CRON[22261]: Accepted password for root from 80.10.50.225 port 61528 ssh2
+Oct  8 10:09:01 titan CRON[22261]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 10:09:01 titan CRON[22261]: pam_unix(cron:session): session closed for user root
+Oct  8 10:17:01 titan CRON[22410]: Accepted password for root from 80.10.50.81 port 46139 ssh2
+Oct  8 10:17:01 titan CRON[22410]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 10:17:01 titan CRON[22410]: pam_unix(cron:session): session closed for user root
+Oct  8 10:22:08 titan sshd[22470]: Did not receive identification string from 18.199.68.21
+Oct  8 10:39:01 titan CRON[22679]: Accepted password for root from 80.10.50.61 port 55697 ssh2
+Oct  8 10:39:01 titan CRON[22679]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 10:39:01 titan CRON[22679]: pam_unix(cron:session): session closed for user root
+Oct  8 11:09:01 titan CRON[23111]: Accepted password for root from 80.10.50.225 port 42137 ssh2
+Oct  8 11:09:01 titan CRON[23111]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 11:09:01 titan CRON[23111]: pam_unix(cron:session): session closed for user root
+Oct  8 11:17:01 titan CRON[23258]: Accepted password for root from 80.10.50.29 port 45282 ssh2
+Oct  8 11:17:01 titan CRON[23258]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 11:17:01 titan CRON[23258]: pam_unix(cron:session): session closed for user root
+Oct  8 11:39:01 titan CRON[23501]: Accepted password for root from 80.10.50.2 port 54761 ssh2
+Oct  8 11:39:01 titan CRON[23501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 11:39:01 titan CRON[23501]: pam_unix(cron:session): session closed for user root
+Oct  8 12:00:01 titan CRON[23790]: Accepted password for root from 80.10.50.49 port 61356 ssh2
+Oct  8 12:00:01 titan CRON[23790]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 12:00:01 titan CRON[23790]: pam_unix(cron:session): session closed for user root
+Oct  8 12:09:01 titan CRON[23912]: Accepted password for root from 80.10.50.59 port 44116 ssh2
+Oct  8 12:09:01 titan CRON[23912]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 12:09:01 titan CRON[23912]: pam_unix(cron:session): session closed for user root
+Oct  8 12:17:01 titan CRON[24061]: Accepted password for root from 80.10.50.68 port 44171 ssh2
+Oct  8 12:17:01 titan CRON[24061]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 12:17:01 titan CRON[24061]: pam_unix(cron:session): session closed for user root
+Oct  8 12:39:01 titan CRON[24306]: Accepted password for root from 80.10.50.15 port 45746 ssh2
+Oct  8 12:39:01 titan CRON[24306]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 12:39:01 titan CRON[24306]: pam_unix(cron:session): session closed for user root
+Oct  8 13:09:01 titan CRON[24685]: Accepted password for root from 80.10.50.133 port 51342 ssh2
+Oct  8 13:09:01 titan CRON[24685]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 13:09:02 titan CRON[24685]: pam_unix(cron:session): session closed for user root
+Oct  8 13:17:01 titan CRON[24816]: Accepted password for root from 80.10.50.48 port 63411 ssh2
+Oct  8 13:17:01 titan CRON[24816]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 13:17:01 titan CRON[24816]: pam_unix(cron:session): session closed for user root
+Oct  8 13:39:01 titan CRON[25068]: Accepted password for root from 80.10.50.72 port 53048 ssh2
+Oct  8 13:39:01 titan CRON[25068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 13:39:01 titan CRON[25068]: pam_unix(cron:session): session closed for user root
+Oct  8 14:09:01 titan CRON[25501]: Accepted password for root from 80.10.50.166 port 54863 ssh2
+Oct  8 14:09:01 titan CRON[25501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 14:09:01 titan CRON[25501]: pam_unix(cron:session): session closed for user root
+Oct  8 14:17:01 titan CRON[25629]: Accepted password for root from 80.10.50.120 port 54772 ssh2
+Oct  8 14:17:01 titan CRON[25629]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 14:17:01 titan CRON[25629]: pam_unix(cron:session): session closed for user root
+Oct  8 14:39:01 titan CRON[25883]: Accepted password for root from 80.10.50.148 port 47633 ssh2
+Oct  8 14:39:01 titan CRON[25883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 14:39:01 titan CRON[25883]: pam_unix(cron:session): session closed for user root
+Oct  8 15:09:01 titan CRON[26290]: Accepted password for root from 80.10.50.118 port 51241 ssh2
+Oct  8 15:09:01 titan CRON[26290]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 15:09:01 titan CRON[26290]: pam_unix(cron:session): session closed for user root
+Oct  8 15:17:01 titan CRON[26437]: Accepted password for root from 80.10.50.60 port 60908 ssh2
+Oct  8 15:17:01 titan CRON[26437]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 15:17:01 titan CRON[26437]: pam_unix(cron:session): session closed for user root
+Oct  8 15:39:01 titan CRON[26690]: Accepted password for root from 80.10.50.162 port 60407 ssh2
+Oct  8 15:39:01 titan CRON[26690]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 15:39:01 titan CRON[26690]: pam_unix(cron:session): session closed for user root
+Oct  8 16:09:01 titan CRON[27061]: Accepted password for root from 80.10.50.133 port 42530 ssh2
+Oct  8 16:09:01 titan CRON[27061]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 16:09:02 titan CRON[27061]: pam_unix(cron:session): session closed for user root
+Oct  8 16:17:01 titan CRON[27191]: Accepted password for root from 80.10.50.146 port 42011 ssh2
+Oct  8 16:17:01 titan CRON[27191]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 16:17:01 titan CRON[27191]: pam_unix(cron:session): session closed for user root
+Oct  8 16:39:01 titan CRON[27429]: Accepted password for root from 80.10.50.196 port 45664 ssh2
+Oct  8 16:39:01 titan CRON[27429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 16:39:01 titan CRON[27429]: pam_unix(cron:session): session closed for user root
+Oct  8 17:09:01 titan CRON[27865]: Accepted password for root from 80.10.50.77 port 40329 ssh2
+Oct  8 17:09:01 titan CRON[27865]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 17:09:01 titan CRON[27865]: pam_unix(cron:session): session closed for user root
+Oct  8 17:17:01 titan CRON[28006]: Accepted password for root from 80.10.50.249 port 54655 ssh2
+Oct  8 17:17:01 titan CRON[28006]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 17:17:01 titan CRON[28006]: pam_unix(cron:session): session closed for user root
+Oct  8 17:39:01 titan CRON[28272]: Accepted password for root from 80.10.50.153 port 60725 ssh2
+Oct  8 17:39:01 titan CRON[28272]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 17:39:01 titan CRON[28272]: pam_unix(cron:session): session closed for user root
+Oct  8 17:43:11 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  8 17:43:11 titan systemd-logind[660]: Removed session c69.
+Oct  8 17:48:52 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  8 17:48:52 titan systemd-logind[660]: Removed session c70.
+Oct  8 18:09:01 titan CRON[28689]: Accepted password for root from 80.10.50.139 port 42554 ssh2
+Oct  8 18:09:01 titan CRON[28689]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 18:09:01 titan CRON[28689]: pam_unix(cron:session): session closed for user root
+Oct  8 18:17:01 titan CRON[28817]: Accepted password for root from 80.10.50.36 port 47175 ssh2
+Oct  8 18:17:01 titan CRON[28817]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 18:17:01 titan CRON[28817]: pam_unix(cron:session): session closed for user root
+Oct  8 18:39:01 titan CRON[29071]: Accepted password for root from 80.10.50.57 port 56539 ssh2
+Oct  8 18:39:01 titan CRON[29071]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 18:39:01 titan CRON[29071]: pam_unix(cron:session): session closed for user root
+Oct  8 18:57:21 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  8 18:57:21 titan systemd-logind[660]: Removed session c71.
+Oct  8 19:09:01 titan CRON[29498]: Accepted password for root from 80.10.50.118 port 64381 ssh2
+Oct  8 19:09:01 titan CRON[29498]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 19:09:01 titan CRON[29498]: pam_unix(cron:session): session closed for user root
+Oct  8 19:14:06 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  8 19:14:06 titan systemd-logind[660]: Removed session c72.
+Oct  8 19:17:02 titan CRON[29651]: Accepted password for root from 80.10.50.246 port 47207 ssh2
+Oct  8 19:17:02 titan CRON[29651]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 19:17:02 titan CRON[29651]: pam_unix(cron:session): session closed for user root
+Oct  8 19:21:43 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  8 19:21:43 titan systemd-logind[660]: Removed session c73.
+Oct  8 19:35:14 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  8 19:35:14 titan systemd-logind[660]: Removed session c74.
+Oct  8 19:39:01 titan CRON[30054]: Accepted password for root from 80.10.50.252 port 49630 ssh2
+Oct  8 19:39:01 titan CRON[30054]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 19:39:01 titan CRON[30054]: pam_unix(cron:session): session closed for user root
+Oct  8 19:55:20 titan sshd[30275]: Did not receive identification string from 40.145.93.249
+Oct  8 20:09:01 titan CRON[30418]: Accepted password for root from 80.10.50.96 port 45093 ssh2
+Oct  8 20:09:01 titan CRON[30418]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 20:09:01 titan CRON[30418]: pam_unix(cron:session): session closed for user root
+Oct  8 20:17:01 titan CRON[30562]: Accepted password for root from 80.10.50.197 port 49473 ssh2
+Oct  8 20:17:01 titan CRON[30562]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 20:17:01 titan CRON[30562]: pam_unix(cron:session): session closed for user root
+Oct  8 20:39:01 titan CRON[30860]: Accepted password for root from 80.10.50.184 port 42499 ssh2
+Oct  8 20:39:01 titan CRON[30860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 20:39:01 titan CRON[30860]: pam_unix(cron:session): session closed for user root
+Oct  8 21:09:01 titan CRON[31291]: Accepted password for root from 80.10.50.37 port 55884 ssh2
+Oct  8 21:09:01 titan CRON[31291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 21:09:01 titan CRON[31291]: pam_unix(cron:session): session closed for user root
+Oct  8 21:17:01 titan CRON[31435]: Accepted password for root from 80.10.50.239 port 64616 ssh2
+Oct  8 21:17:01 titan CRON[31435]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 21:17:01 titan CRON[31435]: pam_unix(cron:session): session closed for user root
+Oct  8 21:39:01 titan CRON[31684]: Accepted password for root from 80.10.50.163 port 57650 ssh2
+Oct  8 21:39:01 titan CRON[31684]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 21:39:01 titan CRON[31684]: pam_unix(cron:session): session closed for user root
+Oct  8 22:09:01 titan CRON[32064]: Accepted password for root from 80.10.50.220 port 63315 ssh2
+Oct  8 22:09:01 titan CRON[32064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 22:09:01 titan CRON[32064]: pam_unix(cron:session): session closed for user root
+Oct  8 22:17:01 titan CRON[32217]: Accepted password for root from 80.10.50.62 port 43112 ssh2
+Oct  8 22:17:01 titan CRON[32217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 22:17:01 titan CRON[32217]: pam_unix(cron:session): session closed for user root
+Oct  8 22:39:01 titan CRON[32526]: Accepted password for root from 80.10.50.67 port 64319 ssh2
+Oct  8 22:39:01 titan CRON[32526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 22:39:02 titan CRON[32526]: pam_unix(cron:session): session closed for user root
+Oct  8 23:09:01 titan CRON[424]: Accepted password for root from 80.10.50.174 port 61836 ssh2
+Oct  8 23:09:01 titan CRON[424]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 23:09:01 titan CRON[424]: pam_unix(cron:session): session closed for user root
+Oct  8 23:17:01 titan CRON[566]: Accepted password for root from 80.10.50.132 port 44479 ssh2
+Oct  8 23:17:01 titan CRON[566]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 23:17:01 titan CRON[566]: pam_unix(cron:session): session closed for user root
+Oct  8 23:23:13 titan sshd[657]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=82.152.4.210  user=root
+Oct  8 23:23:15 titan sshd[657]: Failed password for root from 132.80.62.106 port 1101 ssh2
+Oct  8 23:23:26 titan sshd[657]: message repeated 4 times: [ Failed password for root from 171.145.15.107 port 1101 ssh2]
+Oct  8 23:23:26 titan sshd[657]: Connection reset by 182.70.177.143 port 1101 [preauth]
+Oct  8 23:23:26 titan sshd[657]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=79.94.39.84  user=root
+Oct  8 23:23:26 titan sshd[657]: PAM service(sshd) ignoring max retries; 5 > 3
+Oct  8 23:26:51 titan sshd[766]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=186.151.223.153  user=root
+Oct  8 23:26:53 titan sshd[766]: Failed password for root from 113.59.50.117 port 4842 ssh2
+Oct  8 23:27:01 titan sshd[766]: message repeated 4 times: [ Failed password for root from 128.180.179.221 port 4842 ssh2]
+Oct  8 23:27:02 titan sshd[766]: Connection reset by 185.165.61.181 port 4842 [preauth]
+Oct  8 23:27:02 titan sshd[766]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=99.41.60.196  user=root
+Oct  8 23:27:02 titan sshd[766]: PAM service(sshd) ignoring max retries; 5 > 3
+Oct  8 23:27:55 titan sshd[793]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=42.230.1.182  user=root
+Oct  8 23:27:57 titan sshd[793]: Failed password for root from 93.63.161.169 port 1249 ssh2
+Oct  8 23:28:07 titan sshd[793]: message repeated 4 times: [ Failed password for root from 66.18.104.150 port 1249 ssh2]
+Oct  8 23:28:07 titan sshd[793]: Connection reset by 106.33.169.190 port 1249 [preauth]
+Oct  8 23:28:07 titan sshd[793]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=79.7.124.190  user=root
+Oct  8 23:28:07 titan sshd[793]: PAM service(sshd) ignoring max retries; 5 > 3
+Oct  8 23:31:21 titan sshd[885]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=195.2.12.102  user=root
+Oct  8 23:31:24 titan sshd[885]: Failed password for root from 183.109.75.53 port 2605 ssh2
+Oct  8 23:31:32 titan sshd[885]: message repeated 4 times: [ Failed password for root from 151.45.173.139 port 2605 ssh2]
+Oct  8 23:31:33 titan sshd[885]: Connection reset by 140.204.235.195 port 2605 [preauth]
+Oct  8 23:31:33 titan sshd[885]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=52.174.74.165  user=root
+Oct  8 23:31:33 titan sshd[885]: PAM service(sshd) ignoring max retries; 5 > 3
+Oct  8 23:32:17 titan sshd[913]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=107.146.29.240  user=root
+Oct  8 23:32:19 titan sshd[913]: Failed password for root from 39.114.32.5 port 3415 ssh2
+Oct  8 23:32:28 titan sshd[913]: message repeated 4 times: [ Failed password for root from 128.17.230.64 port 3415 ssh2]
+Oct  8 23:32:29 titan sshd[913]: Connection reset by 80.189.203.97 port 3415 [preauth]
+Oct  8 23:32:29 titan sshd[913]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=69.253.155.190  user=root
+Oct  8 23:32:29 titan sshd[913]: PAM service(sshd) ignoring max retries; 5 > 3
+Oct  8 23:34:32 titan sshd[972]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=150.230.228.218  user=root
+Oct  8 23:34:34 titan sshd[972]: Failed password for root from 78.232.140.104 port 1566 ssh2
+Oct  8 23:34:44 titan sshd[972]: message repeated 4 times: [ Failed password for root from 102.67.89.217 port 1566 ssh2]
+Oct  8 23:34:44 titan sshd[972]: Connection reset by 152.218.146.63 port 1566 [preauth]
+Oct  8 23:34:44 titan sshd[972]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=16.17.221.252  user=root
+Oct  8 23:34:44 titan sshd[972]: PAM service(sshd) ignoring max retries; 5 > 3
+Oct  8 23:37:14 titan sshd[1061]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=13.187.59.196  user=root
+Oct  8 23:37:16 titan sshd[1061]: Failed password for root from 104.179.120.10 port 3298 ssh2
+Oct  8 23:37:20 titan sshd[1061]: message repeated 2 times: [ Failed password for root from 57.99.220.253 port 3298 ssh2]
+Oct  8 23:37:24 titan sshd[1061]: Failed password for root from 175.69.243.123 port 3298 ssh2
+Oct  8 23:37:26 titan sshd[1061]: Failed password for root from 187.233.10.237 port 3298 ssh2
+Oct  8 23:37:27 titan sshd[1061]: Connection reset by 156.8.23.93 port 3298 [preauth]
+Oct  8 23:37:27 titan sshd[1061]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=148.120.105.136  user=root
+Oct  8 23:37:27 titan sshd[1061]: PAM service(sshd) ignoring max retries; 5 > 3
+Oct  8 23:38:13 titan sshd[1102]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=182.116.169.50  user=root
+Oct  8 23:38:15 titan sshd[1102]: Failed password for root from 157.196.84.50 port 1241 ssh2
+Oct  8 23:38:17 titan sshd[1102]: Failed password for root from 38.228.120.235 port 1241 ssh2
+Oct  8 23:38:19 titan sshd[1102]: Failed password for root from 135.33.16.190 port 1241 ssh2
+Oct  8 23:38:21 titan sshd[1102]: Failed password for root from 109.59.83.232 port 1241 ssh2
+Oct  8 23:38:23 titan sshd[1102]: Failed password for root from 129.72.76.160 port 1241 ssh2
+Oct  8 23:38:24 titan sshd[1102]: Connection reset by 66.122.166.2 port 1241 [preauth]
+Oct  8 23:38:24 titan sshd[1102]: PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=126.140.133.77  user=root
+Oct  8 23:38:24 titan sshd[1102]: PAM service(sshd) ignoring max retries; 5 > 3
+Oct  8 23:39:01 titan CRON[1132]: Accepted password for root from 80.10.50.134 port 51320 ssh2
+Oct  8 23:39:01 titan CRON[1132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  8 23:39:01 titan CRON[1132]: pam_unix(cron:session): session closed for user root
+Oct  9 00:00:01 titan CRON[1489]: Accepted password for root from 80.10.50.167 port 61322 ssh2
+Oct  9 00:00:01 titan CRON[1489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 00:00:01 titan CRON[1489]: pam_unix(cron:session): session closed for user root
+Oct  9 00:09:01 titan CRON[1604]: Accepted password for root from 80.10.50.51 port 49791 ssh2
+Oct  9 00:09:01 titan CRON[1604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 00:09:01 titan CRON[1604]: pam_unix(cron:session): session closed for user root
+Oct  9 00:17:01 titan CRON[1799]: Accepted password for root from 80.10.50.5 port 57552 ssh2
+Oct  9 00:17:01 titan CRON[1799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 00:17:01 titan CRON[1799]: pam_unix(cron:session): session closed for user root
+Oct  9 00:39:01 titan CRON[2273]: Accepted password for root from 80.10.50.141 port 52834 ssh2
+Oct  9 00:39:01 titan CRON[2273]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 00:39:01 titan CRON[2273]: pam_unix(cron:session): session closed for user root
+Oct  9 01:09:01 titan CRON[2667]: Accepted password for root from 80.10.50.62 port 54801 ssh2
+Oct  9 01:09:01 titan CRON[2667]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 01:09:01 titan CRON[2667]: pam_unix(cron:session): session closed for user root
+Oct  9 01:17:01 titan CRON[2829]: Accepted password for root from 80.10.50.152 port 51077 ssh2
+Oct  9 01:17:01 titan CRON[2829]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 01:17:01 titan CRON[2829]: pam_unix(cron:session): session closed for user root
+Oct  9 01:39:01 titan CRON[3169]: Accepted password for root from 80.10.50.242 port 53542 ssh2
+Oct  9 01:39:01 titan CRON[3169]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 01:39:02 titan CRON[3169]: pam_unix(cron:session): session closed for user root
+Oct  9 02:09:01 titan CRON[3531]: Accepted password for root from 80.10.50.123 port 64345 ssh2
+Oct  9 02:09:01 titan CRON[3531]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 02:09:01 titan CRON[3531]: pam_unix(cron:session): session closed for user root
+Oct  9 02:17:01 titan CRON[3685]: Accepted password for root from 80.10.50.48 port 51267 ssh2
+Oct  9 02:17:01 titan CRON[3685]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 02:17:01 titan CRON[3685]: pam_unix(cron:session): session closed for user root
+Oct  9 02:39:01 titan CRON[3945]: Accepted password for root from 80.10.50.121 port 62030 ssh2
+Oct  9 02:39:01 titan CRON[3945]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 02:39:01 titan CRON[3945]: pam_unix(cron:session): session closed for user root
+Oct  9 03:09:01 titan CRON[4330]: Accepted password for root from 80.10.50.163 port 44508 ssh2
+Oct  9 03:09:01 titan CRON[4330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 03:09:01 titan CRON[4330]: pam_unix(cron:session): session closed for user root
+Oct  9 03:17:01 titan CRON[4472]: Accepted password for root from 80.10.50.81 port 45555 ssh2
+Oct  9 03:17:01 titan CRON[4472]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 03:17:01 titan CRON[4472]: pam_unix(cron:session): session closed for user root
+Oct  9 03:39:01 titan CRON[4796]: Accepted password for root from 80.10.50.14 port 51473 ssh2
+Oct  9 03:39:01 titan CRON[4796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 03:39:01 titan CRON[4796]: pam_unix(cron:session): session closed for user root
+Oct  9 03:52:27 titan proftpd: pam_unix(proftpd:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/ftpd4982 ruser=www-data rhost=141.152.128.2  user=www-data
+Oct  9 04:09:01 titan CRON[5150]: Accepted password for root from 80.10.50.145 port 49576 ssh2
+Oct  9 04:09:01 titan CRON[5150]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 04:09:01 titan CRON[5150]: pam_unix(cron:session): session closed for user root
+Oct  9 04:17:01 titan CRON[5308]: Accepted password for root from 80.10.50.203 port 63912 ssh2
+Oct  9 04:17:01 titan CRON[5308]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 04:17:01 titan CRON[5308]: pam_unix(cron:session): session closed for user root
+Oct  9 04:39:01 titan CRON[5555]: Accepted password for root from 80.10.50.204 port 52296 ssh2
+Oct  9 04:39:01 titan CRON[5555]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 04:39:01 titan CRON[5555]: pam_unix(cron:session): session closed for user root
+Oct  9 05:09:01 titan CRON[5947]: Accepted password for root from 80.10.50.125 port 62701 ssh2
+Oct  9 05:09:01 titan CRON[5947]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 05:09:02 titan CRON[5947]: pam_unix(cron:session): session closed for user root
+Oct  9 05:17:01 titan CRON[6080]: Accepted password for root from 80.10.50.8 port 42102 ssh2
+Oct  9 05:17:01 titan CRON[6080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 05:17:01 titan CRON[6080]: pam_unix(cron:session): session closed for user root
+Oct  9 05:39:01 titan CRON[6348]: Accepted password for root from 80.10.50.21 port 44038 ssh2
+Oct  9 05:39:01 titan CRON[6348]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 05:39:01 titan CRON[6348]: pam_unix(cron:session): session closed for user root
+Oct  9 06:09:01 titan CRON[6763]: Accepted password for root from 80.10.50.148 port 58735 ssh2
+Oct  9 06:09:01 titan CRON[6763]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 06:09:01 titan CRON[6763]: pam_unix(cron:session): session closed for user root
+Oct  9 06:17:01 titan CRON[6903]: Accepted password for root from 80.10.50.8 port 62789 ssh2
+Oct  9 06:17:01 titan CRON[6903]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 06:17:01 titan CRON[6903]: pam_unix(cron:session): session closed for user root
+Oct  9 06:25:01 titan CRON[6986]: Accepted password for root from 80.10.50.19 port 44887 ssh2
+Oct  9 06:25:01 titan CRON[6986]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 06:25:05 titan CRON[6986]: pam_unix(cron:session): session closed for user root
+Oct  9 06:39:01 titan CRON[7274]: Accepted password for root from 80.10.50.152 port 51991 ssh2
+Oct  9 06:39:01 titan CRON[7274]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 06:39:01 titan CRON[7274]: pam_unix(cron:session): session closed for user root
+Oct  9 07:04:06 titan sshd[7661]: Did not receive identification string from 28.50.29.213
+Oct  9 07:09:01 titan CRON[7721]: Accepted password for root from 80.10.50.253 port 61974 ssh2
+Oct  9 07:09:01 titan CRON[7721]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 07:09:01 titan CRON[7721]: pam_unix(cron:session): session closed for user root
+Oct  9 07:17:01 titan CRON[7863]: Accepted password for root from 80.10.50.220 port 65285 ssh2
+Oct  9 07:17:01 titan CRON[7863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 07:17:01 titan CRON[7863]: pam_unix(cron:session): session closed for user root
+Oct  9 07:29:05 titan sshd[7997]: Did not receive identification string from 131.140.186.35
+Oct  9 07:39:01 titan CRON[8110]: Accepted password for root from 80.10.50.115 port 53317 ssh2
+Oct  9 07:39:01 titan CRON[8110]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 07:39:01 titan CRON[8110]: pam_unix(cron:session): session closed for user root
+Oct  9 08:09:01 titan CRON[8474]: Accepted password for root from 80.10.50.72 port 62987 ssh2
+Oct  9 08:09:01 titan CRON[8474]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 08:09:01 titan CRON[8474]: pam_unix(cron:session): session closed for user root
+Oct  9 08:17:01 titan CRON[8608]: Accepted password for root from 80.10.50.68 port 58740 ssh2
+Oct  9 08:17:01 titan CRON[8608]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 08:17:01 titan CRON[8608]: pam_unix(cron:session): session closed for user root
+Oct  9 08:39:01 titan CRON[8866]: Accepted password for root from 80.10.50.230 port 51044 ssh2
+Oct  9 08:39:01 titan CRON[8866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 08:39:01 titan CRON[8866]: pam_unix(cron:session): session closed for user root
+Oct  9 08:58:01 titan sshd[9104]: Did not receive identification string from 137.234.14.235
+Oct  9 09:09:01 titan CRON[9255]: Accepted password for root from 80.10.50.178 port 59063 ssh2
+Oct  9 09:09:01 titan CRON[9255]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 09:09:02 titan CRON[9255]: pam_unix(cron:session): session closed for user root
+Oct  9 09:17:01 titan CRON[9401]: Accepted password for root from 80.10.50.251 port 61383 ssh2
+Oct  9 09:17:01 titan CRON[9401]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 09:17:01 titan CRON[9401]: pam_unix(cron:session): session closed for user root
+Oct  9 09:39:01 titan CRON[9665]: Accepted password for root from 80.10.50.247 port 47802 ssh2
+Oct  9 09:39:01 titan CRON[9665]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 09:39:01 titan CRON[9665]: pam_unix(cron:session): session closed for user root
+Oct  9 09:47:01 titan CRON[9806]: Accepted password for root from 80.10.50.168 port 50043 ssh2
+Oct  9 09:47:01 titan CRON[9806]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 09:47:01 titan CRON[9806]: pam_unix(cron:session): session closed for user root
+Oct  9 10:09:01 titan CRON[10038]: Accepted password for root from 80.10.50.174 port 51390 ssh2
+Oct  9 10:09:01 titan CRON[10038]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 10:09:01 titan CRON[10038]: pam_unix(cron:session): session closed for user root
+Oct  9 10:17:01 titan CRON[10187]: Accepted password for root from 80.10.50.71 port 50800 ssh2
+Oct  9 10:17:01 titan CRON[10187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 10:17:01 titan CRON[10187]: pam_unix(cron:session): session closed for user root
+Oct  9 10:25:11 titan sshd[10279]: Did not receive identification string from 106.161.179.79
+Oct  9 10:39:01 titan CRON[10422]: Accepted password for root from 80.10.50.24 port 56442 ssh2
+Oct  9 10:39:01 titan CRON[10422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 10:39:01 titan CRON[10422]: pam_unix(cron:session): session closed for user root
+Oct  9 10:45:41 titan sshd[10566]: Bad protocol version identification '\003' from 85.12.139.120 port 3690
+Oct  9 11:09:01 titan CRON[10850]: Accepted password for root from 80.10.50.248 port 44044 ssh2
+Oct  9 11:09:01 titan CRON[10850]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 11:09:01 titan CRON[10850]: pam_unix(cron:session): session closed for user root
+Oct  9 11:17:01 titan CRON[11003]: Accepted password for root from 80.10.50.83 port 49653 ssh2
+Oct  9 11:17:01 titan CRON[11003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 11:17:01 titan CRON[11003]: pam_unix(cron:session): session closed for user root
+Oct  9 11:39:01 titan CRON[11243]: Accepted password for root from 80.10.50.171 port 61298 ssh2
+Oct  9 11:39:01 titan CRON[11243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 11:39:01 titan CRON[11243]: pam_unix(cron:session): session closed for user root
+Oct  9 12:00:01 titan CRON[11523]: Accepted password for root from 80.10.50.235 port 64568 ssh2
+Oct  9 12:00:01 titan CRON[11523]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 12:00:02 titan CRON[11523]: pam_unix(cron:session): session closed for user root
+Oct  9 12:09:01 titan CRON[11612]: Accepted password for root from 80.10.50.94 port 41871 ssh2
+Oct  9 12:09:01 titan CRON[11612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 12:09:01 titan CRON[11612]: pam_unix(cron:session): session closed for user root
+Oct  9 12:17:01 titan CRON[11805]: Accepted password for root from 80.10.50.71 port 60403 ssh2
+Oct  9 12:17:01 titan CRON[11805]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 12:17:01 titan CRON[11805]: pam_unix(cron:session): session closed for user root
+Oct  9 12:39:01 titan CRON[12061]: Accepted password for root from 80.10.50.177 port 64033 ssh2
+Oct  9 12:39:01 titan CRON[12061]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 12:39:01 titan CRON[12061]: pam_unix(cron:session): session closed for user root
+Oct  9 13:09:01 titan CRON[12447]: Accepted password for root from 80.10.50.206 port 52829 ssh2
+Oct  9 13:09:01 titan CRON[12447]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 13:09:01 titan CRON[12447]: pam_unix(cron:session): session closed for user root
+Oct  9 13:17:01 titan CRON[12600]: Accepted password for root from 80.10.50.136 port 45725 ssh2
+Oct  9 13:17:01 titan CRON[12600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 13:17:01 titan CRON[12600]: pam_unix(cron:session): session closed for user root
+Oct  9 13:39:01 titan CRON[12842]: Accepted password for root from 80.10.50.61 port 42224 ssh2
+Oct  9 13:39:01 titan CRON[12842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 13:39:01 titan CRON[12842]: pam_unix(cron:session): session closed for user root
+Oct  9 14:09:01 titan CRON[13218]: Accepted password for root from 80.10.50.42 port 60999 ssh2
+Oct  9 14:09:01 titan CRON[13218]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 14:09:01 titan CRON[13218]: pam_unix(cron:session): session closed for user root
+Oct  9 14:12:48 titan sshd[13319]: Bad protocol version identification '\003' from 94.41.71.203 port 799
+Oct  9 14:17:01 titan CRON[13371]: Accepted password for root from 80.10.50.66 port 48022 ssh2
+Oct  9 14:17:01 titan CRON[13371]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 14:17:01 titan CRON[13371]: pam_unix(cron:session): session closed for user root
+Oct  9 14:39:01 titan CRON[13615]: Accepted password for root from 80.10.50.185 port 58952 ssh2
+Oct  9 14:39:01 titan CRON[13615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 14:39:01 titan CRON[13615]: pam_unix(cron:session): session closed for user root
+Oct  9 15:09:01 titan CRON[14033]: Accepted password for root from 80.10.50.55 port 61158 ssh2
+Oct  9 15:09:01 titan CRON[14033]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 15:09:02 titan CRON[14033]: pam_unix(cron:session): session closed for user root
+Oct  9 15:17:01 titan CRON[14177]: Accepted password for root from 80.10.50.194 port 55523 ssh2
+Oct  9 15:17:01 titan CRON[14177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 15:17:01 titan CRON[14177]: pam_unix(cron:session): session closed for user root
+Oct  9 15:39:01 titan CRON[14432]: Accepted password for root from 80.10.50.7 port 44055 ssh2
+Oct  9 15:39:01 titan CRON[14432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 15:39:01 titan CRON[14432]: pam_unix(cron:session): session closed for user root
+Oct  9 16:09:01 titan CRON[14859]: Accepted password for root from 80.10.50.205 port 50187 ssh2
+Oct  9 16:09:01 titan CRON[14859]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 16:09:01 titan CRON[14859]: pam_unix(cron:session): session closed for user root
+Oct  9 16:17:01 titan CRON[14992]: Accepted password for root from 80.10.50.66 port 65106 ssh2
+Oct  9 16:17:01 titan CRON[14992]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 16:17:01 titan CRON[14992]: pam_unix(cron:session): session closed for user root
+Oct  9 16:39:01 titan CRON[15236]: Accepted password for root from 80.10.50.251 port 51564 ssh2
+Oct  9 16:39:01 titan CRON[15236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 16:39:01 titan CRON[15236]: pam_unix(cron:session): session closed for user root
+Oct  9 17:09:01 titan CRON[15651]: Accepted password for root from 80.10.50.79 port 44088 ssh2
+Oct  9 17:09:01 titan CRON[15651]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 17:09:01 titan CRON[15651]: pam_unix(cron:session): session closed for user root
+Oct  9 17:17:01 titan CRON[15819]: Accepted password for root from 80.10.50.65 port 45986 ssh2
+Oct  9 17:17:01 titan CRON[15819]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 17:17:01 titan CRON[15819]: pam_unix(cron:session): session closed for user root
+Oct  9 17:26:41 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  9 17:26:41 titan systemd-logind[660]: Removed session c75.
+Oct  9 17:35:54 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  9 17:35:54 titan systemd-logind[660]: Removed session c76.
+Oct  9 17:39:01 titan CRON[16116]: Accepted password for root from 80.10.50.204 port 51507 ssh2
+Oct  9 17:39:01 titan CRON[16116]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 17:39:01 titan CRON[16116]: pam_unix(cron:session): session closed for user root
+Oct  9 18:09:01 titan CRON[16522]: Accepted password for root from 80.10.50.170 port 40604 ssh2
+Oct  9 18:09:01 titan CRON[16522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 18:09:01 titan CRON[16522]: pam_unix(cron:session): session closed for user root
+Oct  9 18:17:01 titan CRON[16674]: Accepted password for root from 80.10.50.131 port 48743 ssh2
+Oct  9 18:17:01 titan CRON[16674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 18:17:02 titan CRON[16674]: pam_unix(cron:session): session closed for user root
+Oct  9 18:39:01 titan CRON[16912]: Accepted password for root from 80.10.50.251 port 47663 ssh2
+Oct  9 18:39:01 titan CRON[16912]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 18:39:01 titan CRON[16912]: pam_unix(cron:session): session closed for user root
+Oct  9 18:47:32 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  9 18:47:32 titan systemd-logind[660]: Removed session c77.
+Oct  9 19:00:54 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  9 19:00:54 titan systemd-logind[660]: Removed session c78.
+Oct  9 19:09:01 titan CRON[17387]: Accepted password for root from 80.10.50.72 port 54936 ssh2
+Oct  9 19:09:01 titan CRON[17387]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 19:09:01 titan CRON[17387]: pam_unix(cron:session): session closed for user root
+Oct  9 19:17:01 titan CRON[17530]: Accepted password for root from 80.10.50.120 port 55830 ssh2
+Oct  9 19:17:01 titan CRON[17530]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 19:17:01 titan CRON[17530]: pam_unix(cron:session): session closed for user root
+Oct  9 19:39:01 titan CRON[17878]: Accepted password for root from 80.10.50.89 port 58383 ssh2
+Oct  9 19:39:01 titan CRON[17878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 19:39:01 titan CRON[17878]: pam_unix(cron:session): session closed for user root
+Oct  9 20:09:01 titan CRON[18369]: Accepted password for root from 80.10.50.123 port 48896 ssh2
+Oct  9 20:09:01 titan CRON[18369]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 20:09:01 titan CRON[18369]: pam_unix(cron:session): session closed for user root
+Oct  9 20:13:31 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct  9 20:13:31 titan systemd-logind[660]: Removed session c79.
+Oct  9 20:17:01 titan CRON[18516]: Accepted password for root from 80.10.50.82 port 62801 ssh2
+Oct  9 20:17:01 titan CRON[18516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 20:17:01 titan CRON[18516]: pam_unix(cron:session): session closed for user root
+Oct  9 20:39:01 titan CRON[18750]: Accepted password for root from 80.10.50.235 port 52126 ssh2
+Oct  9 20:39:01 titan CRON[18750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 20:39:01 titan CRON[18750]: pam_unix(cron:session): session closed for user root
+Oct  9 21:09:01 titan CRON[19184]: Accepted password for root from 80.10.50.143 port 60893 ssh2
+Oct  9 21:09:01 titan CRON[19184]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 21:09:01 titan CRON[19184]: pam_unix(cron:session): session closed for user root
+Oct  9 21:17:01 titan CRON[19323]: Accepted password for root from 80.10.50.216 port 49296 ssh2
+Oct  9 21:17:01 titan CRON[19323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 21:17:01 titan CRON[19323]: pam_unix(cron:session): session closed for user root
+Oct  9 21:39:01 titan CRON[19573]: Accepted password for root from 80.10.50.112 port 61881 ssh2
+Oct  9 21:39:01 titan CRON[19573]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 21:39:02 titan CRON[19573]: pam_unix(cron:session): session closed for user root
+Oct  9 22:09:01 titan CRON[19937]: Accepted password for root from 80.10.50.193 port 57779 ssh2
+Oct  9 22:09:01 titan CRON[19937]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 22:09:01 titan CRON[19937]: pam_unix(cron:session): session closed for user root
+Oct  9 22:17:01 titan CRON[20077]: Accepted password for root from 80.10.50.244 port 44529 ssh2
+Oct  9 22:17:01 titan CRON[20077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 22:17:01 titan CRON[20077]: pam_unix(cron:session): session closed for user root
+Oct  9 22:39:01 titan CRON[20315]: Accepted password for root from 80.10.50.83 port 47585 ssh2
+Oct  9 22:39:01 titan CRON[20315]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 22:39:01 titan CRON[20315]: pam_unix(cron:session): session closed for user root
+Oct  9 23:09:01 titan CRON[20716]: Accepted password for root from 80.10.50.193 port 44267 ssh2
+Oct  9 23:09:01 titan CRON[20716]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 23:09:01 titan CRON[20716]: pam_unix(cron:session): session closed for user root
+Oct  9 23:17:01 titan CRON[20847]: Accepted password for root from 80.10.50.135 port 47461 ssh2
+Oct  9 23:17:01 titan CRON[20847]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 23:17:01 titan CRON[20847]: pam_unix(cron:session): session closed for user root
+Oct  9 23:28:12 titan sshd[20967]: Did not receive identification string from 102.4.28.40
+Oct  9 23:39:01 titan CRON[21077]: Accepted password for root from 80.10.50.84 port 41428 ssh2
+Oct  9 23:39:01 titan CRON[21077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  9 23:39:01 titan CRON[21077]: pam_unix(cron:session): session closed for user root
+Oct 10 00:00:01 titan CRON[21347]: Accepted password for root from 80.10.50.57 port 65467 ssh2
+Oct 10 00:00:01 titan CRON[21347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 00:00:01 titan CRON[21347]: pam_unix(cron:session): session closed for user root
+Oct 10 00:09:01 titan CRON[21456]: Accepted password for root from 80.10.50.109 port 52036 ssh2
+Oct 10 00:09:01 titan CRON[21456]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 00:09:01 titan CRON[21456]: pam_unix(cron:session): session closed for user root
+Oct 10 00:17:01 titan CRON[21593]: Accepted password for root from 80.10.50.201 port 52587 ssh2
+Oct 10 00:17:01 titan CRON[21593]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 00:17:01 titan CRON[21593]: pam_unix(cron:session): session closed for user root
+Oct 10 00:39:01 titan CRON[21989]: Accepted password for root from 80.10.50.241 port 61683 ssh2
+Oct 10 00:39:01 titan CRON[21989]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 00:39:02 titan CRON[21989]: pam_unix(cron:session): session closed for user root
+Oct 10 01:09:01 titan CRON[22361]: Accepted password for root from 80.10.50.72 port 53967 ssh2
+Oct 10 01:09:01 titan CRON[22361]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 01:09:01 titan CRON[22361]: pam_unix(cron:session): session closed for user root
+Oct 10 01:17:01 titan CRON[22508]: Accepted password for root from 80.10.50.243 port 41786 ssh2
+Oct 10 01:17:01 titan CRON[22508]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 01:17:01 titan CRON[22508]: pam_unix(cron:session): session closed for user root
+Oct 10 01:39:01 titan CRON[22745]: Accepted password for root from 80.10.50.68 port 41171 ssh2
+Oct 10 01:39:01 titan CRON[22745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 01:39:01 titan CRON[22745]: pam_unix(cron:session): session closed for user root
+Oct 10 02:09:01 titan CRON[23138]: Accepted password for root from 80.10.50.94 port 48059 ssh2
+Oct 10 02:09:01 titan CRON[23138]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 02:09:01 titan CRON[23138]: pam_unix(cron:session): session closed for user root
+Oct 10 02:17:01 titan CRON[23271]: Accepted password for root from 80.10.50.238 port 47028 ssh2
+Oct 10 02:17:01 titan CRON[23271]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 02:17:01 titan CRON[23271]: pam_unix(cron:session): session closed for user root
+Oct 10 02:39:01 titan CRON[23522]: Accepted password for root from 80.10.50.149 port 62430 ssh2
+Oct 10 02:39:01 titan CRON[23522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 02:39:01 titan CRON[23522]: pam_unix(cron:session): session closed for user root
+Oct 10 03:09:01 titan CRON[23912]: Accepted password for root from 80.10.50.60 port 62209 ssh2
+Oct 10 03:09:01 titan CRON[23912]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 03:09:01 titan CRON[23912]: pam_unix(cron:session): session closed for user root
+Oct 10 03:17:01 titan CRON[24047]: Accepted password for root from 80.10.50.173 port 50867 ssh2
+Oct 10 03:17:01 titan CRON[24047]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 03:17:01 titan CRON[24047]: pam_unix(cron:session): session closed for user root
+Oct 10 03:39:01 titan CRON[24352]: Accepted password for root from 80.10.50.76 port 43930 ssh2
+Oct 10 03:39:01 titan CRON[24352]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 03:39:01 titan CRON[24352]: pam_unix(cron:session): session closed for user root
+Oct 10 04:09:01 titan CRON[24730]: Accepted password for root from 80.10.50.82 port 55121 ssh2
+Oct 10 04:09:01 titan CRON[24730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 04:09:02 titan CRON[24730]: pam_unix(cron:session): session closed for user root
+Oct 10 04:17:01 titan CRON[24852]: Accepted password for root from 80.10.50.226 port 50882 ssh2
+Oct 10 04:17:01 titan CRON[24852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 04:17:01 titan CRON[24852]: pam_unix(cron:session): session closed for user root
+Oct 10 04:39:01 titan CRON[25092]: Accepted password for root from 80.10.50.245 port 64333 ssh2
+Oct 10 04:39:01 titan CRON[25092]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 04:39:01 titan CRON[25092]: pam_unix(cron:session): session closed for user root
+Oct 10 05:09:01 titan CRON[25465]: Accepted password for root from 80.10.50.219 port 60826 ssh2
+Oct 10 05:09:01 titan CRON[25465]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 05:09:01 titan CRON[25465]: pam_unix(cron:session): session closed for user root
+Oct 10 05:17:01 titan CRON[25618]: Accepted password for root from 80.10.50.185 port 56202 ssh2
+Oct 10 05:17:01 titan CRON[25618]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 05:17:01 titan CRON[25618]: pam_unix(cron:session): session closed for user root
+Oct 10 05:39:01 titan CRON[25852]: Accepted password for root from 80.10.50.93 port 60353 ssh2
+Oct 10 05:39:01 titan CRON[25852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 05:39:01 titan CRON[25852]: pam_unix(cron:session): session closed for user root
+Oct 10 05:57:19 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct 10 05:57:19 titan systemd-logind[660]: Removed session c80.
+Oct 10 06:09:01 titan CRON[26236]: Accepted password for root from 80.10.50.159 port 62004 ssh2
+Oct 10 06:09:01 titan CRON[26236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 06:09:01 titan CRON[26236]: pam_unix(cron:session): session closed for user root
+Oct 10 06:17:01 titan CRON[26384]: Accepted password for root from 80.10.50.215 port 46794 ssh2
+Oct 10 06:17:01 titan CRON[26384]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 06:17:01 titan CRON[26384]: pam_unix(cron:session): session closed for user root
+Oct 10 06:25:01 titan CRON[26470]: Accepted password for root from 80.10.50.27 port 41977 ssh2
+Oct 10 06:25:01 titan CRON[26470]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 06:25:05 titan CRON[26470]: pam_unix(cron:session): session closed for user root
+Oct 10 06:39:01 titan CRON[26757]: Accepted password for root from 80.10.50.30 port 44070 ssh2
+Oct 10 06:39:01 titan CRON[26757]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 06:39:01 titan CRON[26757]: pam_unix(cron:session): session closed for user root
+Oct 10 06:42:47 titan proftpd: pam_unix(proftpd:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/ftpd26847 ruser=www-data rhost=109.39.63.90  user=www-data
+Oct 10 06:45:31 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct 10 06:45:31 titan systemd-logind[660]: Removed session c81.
+Oct 10 06:52:10 titan sshd[26979]: Did not receive identification string from 147.66.104.216
+Oct 10 07:07:13 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct 10 07:07:13 titan systemd-logind[660]: Removed session c82.
+Oct 10 07:09:01 titan CRON[27197]: Accepted password for root from 80.13.31.7 port 61990 ssh2
+Oct 10 07:09:01 titan CRON[27197]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 07:09:01 titan CRON[27197]: pam_unix(cron:session): session closed for user root
+Oct 10 07:12:33 titan proftpd: pam_unix(proftpd:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/ftpd26432 ruser=www-data rhost=109.39.63.90  user=www-data
+Oct 10 07:13:20 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct 10 07:13:20 titan systemd-logind[660]: Removed session c81.
+Oct 10 07:17:01 titan CRON[27347]: Accepted password for root from 80.10.50.173 port 50614 ssh2
+Oct 10 07:17:01 titan CRON[27347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 07:17:01 titan CRON[27347]: pam_unix(cron:session): session closed for user root
+Oct 10 07:29:08 titan sshd[27489]: Did not receive identification string from 15.180.248.56
+Oct 10 07:39:01 titan CRON[27590]: Accepted password for root from 80.10.50.62 port 49701 ssh2
+Oct 10 07:39:01 titan CRON[27590]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 07:39:01 titan CRON[27590]: pam_unix(cron:session): session closed for user root
+Oct 10 07:54:51 titan sshd[27804]: Did not receive identification string from 19.72.147.119
+Oct 10 08:07:44 titan sshd[27945]: Did not receive identification string from 61.65.191.50
+Oct 10 08:09:01 titan CRON[27981]: Accepted password for root from 80.10.50.176 port 65225 ssh2
+Oct 10 08:09:01 titan CRON[27981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 08:09:02 titan CRON[27981]: pam_unix(cron:session): session closed for user root
+Oct 10 08:17:01 titan CRON[28099]: Accepted password for root from 80.10.50.228 port 51357 ssh2
+Oct 10 08:17:01 titan CRON[28099]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 08:17:01 titan CRON[28099]: pam_unix(cron:session): session closed for user root
+Oct 10 08:17:19 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct 10 08:17:19 titan systemd-logind[660]: Removed session c83.
+Oct 10 08:38:28 titan proftpd: pam_systemd(proftpd:session): Failed to connect to system bus: No such file or directory
+Oct 10 08:38:28 titan systemd-logind[660]: Removed session c84.
+Oct 10 08:39:01 titan CRON[28422]: Accepted password for root from 80.10.50.249 port 53346 ssh2
+Oct 10 08:39:01 titan CRON[28422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 08:39:01 titan CRON[28422]: pam_unix(cron:session): session closed for user root
+Oct 10 08:45:51 titan sshd[28552]: Did not receive identification string from 42.40.27.223
+Oct 10 09:09:01 titan CRON[28927]: Accepted password for root from 80.10.50.70 port 62694 ssh2
+Oct 10 09:09:01 titan CRON[28927]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 09:09:01 titan CRON[28927]: pam_unix(cron:session): session closed for user root
+Oct 10 09:11:27 titan sshd[29005]: Did not receive identification string from 12.175.217.243
+Oct 10 09:17:01 titan CRON[29088]: Accepted password for root from 80.10.50.137 port 51648 ssh2
+Oct 10 09:17:01 titan CRON[29088]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 09:17:01 titan CRON[29088]: pam_unix(cron:session): session closed for user root
+Oct 10 09:24:05 titan sshd[29159]: Did not receive identification string from 83.126.161.68
+Oct 10 09:39:01 titan CRON[29368]: Accepted password for root from 80.10.50.190 port 64437 ssh2
+Oct 10 09:39:01 titan CRON[29368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 09:39:01 titan CRON[29368]: pam_unix(cron:session): session closed for user root
+Oct 10 09:47:01 titan CRON[29523]: Accepted password for root from 80.10.50.152 port 55345 ssh2
+Oct 10 09:47:01 titan CRON[29523]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 09:47:01 titan CRON[29523]: pam_unix(cron:session): session closed for user root
+Oct 10 10:02:03 titan sshd[29677]: Did not receive identification string from 140.169.30.126
+Oct 10 10:09:01 titan CRON[29761]: Accepted password for root from 80.10.50.20 port 62985 ssh2
+Oct 10 10:09:01 titan CRON[29761]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 10:09:01 titan CRON[29761]: pam_unix(cron:session): session closed for user root
+Oct 10 10:14:16 titan sshd[29856]: Did not receive identification string from 71.5.225.198
+Oct 10 10:17:01 titan CRON[29906]: Accepted password for root from 80.10.50.204 port 54568 ssh2
+Oct 10 10:17:01 titan CRON[29906]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 10:17:01 titan CRON[29906]: pam_unix(cron:session): session closed for user root
+Oct 10 10:26:54 titan sshd[30031]: Did not receive identification string from 27.143.99.140
+Oct 10 10:29:54 titan sshd[30057]: Did not receive identification string from 82.30.30.107
+Oct 10 10:38:57 titan sshd[30212]: Did not receive identification string from 28.163.222.187
+Oct 10 10:39:01 titan CRON[30225]: Accepted password for root from 80.10.50.119 port 43929 ssh2
+Oct 10 10:39:01 titan CRON[30225]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 10:39:01 titan CRON[30225]: pam_unix(cron:session): session closed for user root
+Oct 10 10:51:10 titan sshd[30455]: Did not receive identification string from 175.75.9.78
+Oct 10 11:09:01 titan CRON[30668]: Accepted password for root from 80.10.50.222 port 40689 ssh2
+Oct 10 11:09:01 titan CRON[30668]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 11:09:02 titan CRON[30668]: pam_unix(cron:session): session closed for user root
+Oct 10 11:17:01 titan CRON[30800]: Accepted password for root from 80.10.50.156 port 47256 ssh2
+Oct 10 11:17:01 titan CRON[30800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 11:17:01 titan CRON[30800]: pam_unix(cron:session): session closed for user root
+Oct 10 11:39:01 titan CRON[31126]: Accepted password for root from 80.10.50.253 port 65181 ssh2
+Oct 10 11:39:01 titan CRON[31126]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 11:39:01 titan CRON[31126]: pam_unix(cron:session): session closed for user root
+Oct 10 12:00:01 titan CRON[31415]: Accepted password for root from 80.10.50.180 port 43128 ssh2
+Oct 10 12:00:01 titan CRON[31415]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 12:00:01 titan CRON[31415]: pam_unix(cron:session): session closed for user root
+Oct 10 12:09:01 titan CRON[31523]: Accepted password for root from 80.10.50.130 port 45839 ssh2
+Oct 10 12:09:01 titan CRON[31523]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 12:09:01 titan CRON[31523]: pam_unix(cron:session): session closed for user root
+Oct 10 12:09:09 titan sshd[31576]: Connection reset by 117.87.187.114 port 26409 [preauth]
+Oct 10 12:17:01 titan CRON[31683]: Accepted password for root from 80.10.50.26 port 51468 ssh2
+Oct 10 12:17:01 titan CRON[31683]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 12:17:01 titan CRON[31683]: pam_unix(cron:session): session closed for user root
+Oct 10 12:39:01 titan CRON[31938]: Accepted password for root from 80.10.50.105 port 49603 ssh2
+Oct 10 12:39:01 titan CRON[31938]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 12:39:01 titan CRON[31938]: pam_unix(cron:session): session closed for user root
+Oct 10 13:09:01 titan CRON[32360]: Accepted password for root from 80.10.50.227 port 46210 ssh2
+Oct 10 13:09:01 titan CRON[32360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 13:09:01 titan CRON[32360]: pam_unix(cron:session): session closed for user root
+Oct 10 13:17:01 titan CRON[32528]: Accepted password for root from 80.10.50.74 port 43334 ssh2
+Oct 10 13:17:01 titan CRON[32528]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 13:17:01 titan CRON[32528]: pam_unix(cron:session): session closed for user root
+Oct 10 13:39:01 titan CRON[323]: Accepted password for root from 80.10.50.182 port 50193 ssh2
+Oct 10 13:39:01 titan CRON[323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 13:39:01 titan CRON[323]: pam_unix(cron:session): session closed for user root
+Oct 10 14:09:01 titan CRON[726]: Accepted password for root from 80.10.50.2 port 65134 ssh2
+Oct 10 14:09:01 titan CRON[726]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 14:09:01 titan CRON[726]: pam_unix(cron:session): session closed for user root
+Oct 10 14:17:01 titan CRON[874]: Accepted password for root from 80.10.50.212 port 43764 ssh2
+Oct 10 14:17:01 titan CRON[874]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 14:17:02 titan CRON[874]: pam_unix(cron:session): session closed for user root
+Oct 10 14:39:01 titan CRON[1167]: Accepted password for root from 80.10.50.202 port 54711 ssh2
+Oct 10 14:39:01 titan CRON[1167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 14:39:01 titan CRON[1167]: pam_unix(cron:session): session closed for user root
+Oct 10 15:09:01 titan CRON[1634]: Accepted password for root from 80.10.50.67 port 41137 ssh2
+Oct 10 15:09:01 titan CRON[1634]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 15:09:01 titan CRON[1634]: pam_unix(cron:session): session closed for user root
+Oct 10 15:17:01 titan CRON[1812]: Accepted password for root from 80.10.50.221 port 45956 ssh2
+Oct 10 15:17:01 titan CRON[1812]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 15:17:01 titan CRON[1812]: pam_unix(cron:session): session closed for user root
+Oct 10 15:39:01 titan CRON[2144]: Accepted password for root from 80.10.50.102 port 52820 ssh2
+Oct 10 15:39:01 titan CRON[2144]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 15:39:01 titan CRON[2144]: pam_unix(cron:session): session closed for user root
+Oct 10 16:09:01 titan CRON[2540]: Accepted password for root from 80.10.50.218 port 42286 ssh2
+Oct 10 16:09:01 titan CRON[2540]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 16:09:01 titan CRON[2540]: pam_unix(cron:session): session closed for user root
+Oct 10 16:17:01 titan CRON[2683]: Accepted password for root from 80.10.50.91 port 57132 ssh2
+Oct 10 16:17:01 titan CRON[2683]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 16:17:01 titan CRON[2683]: pam_unix(cron:session): session closed for user root
+Oct 10 16:39:01 titan CRON[2960]: Accepted password for root from 80.10.50.92 port 59819 ssh2
+Oct 10 16:39:01 titan CRON[2960]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 16:39:01 titan CRON[2960]: pam_unix(cron:session): session closed for user root
+Oct 10 17:09:01 titan CRON[3373]: Accepted password for root from 80.10.50.102 port 54844 ssh2
+Oct 10 17:09:01 titan CRON[3373]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 17:09:01 titan CRON[3373]: pam_unix(cron:session): session closed for user root
+Oct 10 17:17:01 titan CRON[3515]: Accepted password for root from 80.10.50.221 port 60769 ssh2
+Oct 10 17:17:01 titan CRON[3515]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 17:17:01 titan CRON[3515]: pam_unix(cron:session): session closed for user root
+Oct 10 17:39:01 titan CRON[3792]: Accepted password for root from 80.10.50.111 port 51915 ssh2
+Oct 10 17:39:01 titan CRON[3792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 17:39:02 titan CRON[3792]: pam_unix(cron:session): session closed for user root
+Oct 10 18:09:01 titan CRON[4211]: Accepted password for root from 80.10.50.188 port 64221 ssh2
+Oct 10 18:09:01 titan CRON[4211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 18:09:01 titan CRON[4211]: pam_unix(cron:session): session closed for user root
+Oct 10 18:17:01 titan CRON[4355]: Accepted password for root from 80.10.50.12 port 42004 ssh2
+Oct 10 18:17:01 titan CRON[4355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 18:17:01 titan CRON[4355]: pam_unix(cron:session): session closed for user root
+Oct 10 18:39:01 titan CRON[4616]: Accepted password for root from 80.10.50.161 port 55337 ssh2
+Oct 10 18:39:01 titan CRON[4616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 18:39:01 titan CRON[4616]: pam_unix(cron:session): session closed for user root
+Oct 10 19:09:01 titan CRON[5025]: Accepted password for root from 80.10.50.206 port 43785 ssh2
+Oct 10 19:09:01 titan CRON[5025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 19:09:01 titan CRON[5025]: pam_unix(cron:session): session closed for user root
+Oct 10 19:17:01 titan CRON[5173]: Accepted password for root from 80.10.50.215 port 62933 ssh2
+Oct 10 19:17:01 titan CRON[5173]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 19:17:01 titan CRON[5173]: pam_unix(cron:session): session closed for user root
+Oct 10 19:39:01 titan CRON[5436]: Accepted password for root from 80.10.50.250 port 60926 ssh2
+Oct 10 19:39:01 titan CRON[5436]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 19:39:01 titan CRON[5436]: pam_unix(cron:session): session closed for user root
+Oct 10 20:09:01 titan CRON[5836]: Accepted password for root from 80.10.50.137 port 45892 ssh2
+Oct 10 20:09:01 titan CRON[5836]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 20:09:01 titan CRON[5836]: pam_unix(cron:session): session closed for user root
+Oct 10 20:17:01 titan CRON[5976]: Accepted password for root from 80.10.50.127 port 42027 ssh2
+Oct 10 20:17:01 titan CRON[5976]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 20:17:01 titan CRON[5976]: pam_unix(cron:session): session closed for user root
+Oct 10 20:39:01 titan CRON[6231]: Accepted password for root from 80.10.50.218 port 47759 ssh2
+Oct 10 20:39:01 titan CRON[6231]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 20:39:02 titan CRON[6231]: pam_unix(cron:session): session closed for user root
+Oct 10 21:09:01 titan CRON[6635]: Accepted password for root from 80.10.50.204 port 53465 ssh2
+Oct 10 21:09:01 titan CRON[6635]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 21:09:01 titan CRON[6635]: pam_unix(cron:session): session closed for user root
+Oct 10 21:17:01 titan CRON[6781]: Accepted password for root from 80.10.50.155 port 56204 ssh2
+Oct 10 21:17:01 titan CRON[6781]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 21:17:01 titan CRON[6781]: pam_unix(cron:session): session closed for user root
+Oct 10 21:39:01 titan CRON[7034]: Accepted password for root from 80.10.50.251 port 44037 ssh2
+Oct 10 21:39:01 titan CRON[7034]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 21:39:01 titan CRON[7034]: pam_unix(cron:session): session closed for user root
+Oct 10 22:09:01 titan CRON[7429]: Accepted password for root from 80.10.50.161 port 59930 ssh2
+Oct 10 22:09:01 titan CRON[7429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 22:09:01 titan CRON[7429]: pam_unix(cron:session): session closed for user root
+Oct 10 22:17:01 titan CRON[7574]: Accepted password for root from 80.10.50.153 port 47457 ssh2
+Oct 10 22:17:01 titan CRON[7574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 22:17:01 titan CRON[7574]: pam_unix(cron:session): session closed for user root
+Oct 10 22:39:01 titan CRON[7886]: Accepted password for root from 80.10.50.82 port 48872 ssh2
+Oct 10 22:39:01 titan CRON[7886]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 22:39:01 titan CRON[7886]: pam_unix(cron:session): session closed for user root
+Oct 10 23:09:01 titan CRON[8309]: Accepted password for root from 80.10.50.239 port 55793 ssh2
+Oct 10 23:09:01 titan CRON[8309]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 23:09:01 titan CRON[8309]: pam_unix(cron:session): session closed for user root
+Oct 10 23:17:01 titan CRON[8439]: Accepted password for root from 80.10.50.164 port 51253 ssh2
+Oct 10 23:17:01 titan CRON[8439]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 23:17:01 titan CRON[8439]: pam_unix(cron:session): session closed for user root
+Oct 10 23:39:01 titan CRON[8698]: Accepted password for root from 80.10.50.181 port 40210 ssh2
+Oct 10 23:39:01 titan CRON[8698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 23:39:01 titan CRON[8698]: pam_unix(cron:session): session closed for user root
+Oct 11 00:00:01 titan CRON[8990]: Accepted password for root from 80.10.50.147 port 60128 ssh2
+Oct 11 00:00:01 titan CRON[8990]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 00:00:02 titan CRON[8990]: pam_unix(cron:session): session closed for user root
+Oct 11 00:09:01 titan CRON[9082]: Accepted password for root from 80.10.50.85 port 51314 ssh2
+Oct 11 00:09:01 titan CRON[9082]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 00:09:01 titan CRON[9082]: pam_unix(cron:session): session closed for user root
+Oct 11 00:17:01 titan CRON[9227]: Accepted password for root from 80.10.50.51 port 43198 ssh2
+Oct 11 00:17:01 titan CRON[9227]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 00:17:01 titan CRON[9227]: pam_unix(cron:session): session closed for user root
+Oct 11 00:39:01 titan CRON[9702]: Accepted password for root from 80.10.50.63 port 61283 ssh2
+Oct 11 00:39:01 titan CRON[9702]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 00:39:01 titan CRON[9702]: pam_unix(cron:session): session closed for user root
+Oct 11 01:09:01 titan CRON[10102]: Accepted password for root from 80.10.50.216 port 59517 ssh2
+Oct 11 01:09:01 titan CRON[10102]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 01:09:01 titan CRON[10102]: pam_unix(cron:session): session closed for user root
+Oct 11 01:17:01 titan CRON[10235]: Accepted password for root from 80.10.50.43 port 59834 ssh2
+Oct 11 01:17:01 titan CRON[10235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 01:17:01 titan CRON[10235]: pam_unix(cron:session): session closed for user root
+Oct 11 01:39:01 titan CRON[10503]: Accepted password for root from 80.10.50.24 port 51626 ssh2
+Oct 11 01:39:01 titan CRON[10503]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 01:39:01 titan CRON[10503]: pam_unix(cron:session): session closed for user root
+Oct 11 03:09:01 titan CRON[10892]: Accepted password for root from 80.10.50.175 port 51244 ssh2
+Oct 11 03:09:01 titan CRON[10892]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 03:09:01 titan CRON[10892]: pam_unix(cron:session): session closed for user root
+Oct 11 03:17:01 titan CRON[11025]: Accepted password for root from 80.10.50.193 port 41993 ssh2
+Oct 11 03:17:01 titan CRON[11025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 03:17:01 titan CRON[11025]: pam_unix(cron:session): session closed for user root
+Oct 11 03:39:01 titan CRON[11272]: Accepted password for root from 80.10.50.11 port 54120 ssh2
+Oct 11 03:39:01 titan CRON[11272]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 03:39:01 titan CRON[11272]: pam_unix(cron:session): session closed for user root
+Oct 11 04:09:01 titan CRON[11699]: Accepted password for root from 80.10.50.81 port 45852 ssh2
+Oct 11 04:09:01 titan CRON[11699]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 04:09:02 titan CRON[11699]: pam_unix(cron:session): session closed for user root
+Oct 11 04:17:01 titan CRON[11823]: Accepted password for root from 80.10.50.52 port 55119 ssh2
+Oct 11 04:17:01 titan CRON[11823]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 04:17:01 titan CRON[11823]: pam_unix(cron:session): session closed for user root
+Oct 11 04:39:01 titan CRON[12186]: Accepted password for root from 80.10.50.218 port 45671 ssh2
+Oct 11 04:39:01 titan CRON[12186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 04:39:01 titan CRON[12186]: pam_unix(cron:session): session closed for user root
+Oct 11 05:09:01 titan CRON[12606]: Accepted password for root from 80.10.50.60 port 58701 ssh2
+Oct 11 05:09:01 titan CRON[12606]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 05:09:01 titan CRON[12606]: pam_unix(cron:session): session closed for user root
+Oct 11 05:17:01 titan CRON[12777]: Accepted password for root from 80.10.50.155 port 63600 ssh2
+Oct 11 05:17:01 titan CRON[12777]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 05:17:01 titan CRON[12777]: pam_unix(cron:session): session closed for user root
+Oct 11 05:39:01 titan CRON[13175]: Accepted password for root from 80.10.50.190 port 48594 ssh2
+Oct 11 05:39:01 titan CRON[13175]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 05:39:01 titan CRON[13175]: pam_unix(cron:session): session closed for user root
+Oct 11 06:09:01 titan CRON[13560]: Accepted password for root from 80.10.50.162 port 53678 ssh2
+Oct 11 06:09:01 titan CRON[13560]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 06:09:01 titan CRON[13560]: pam_unix(cron:session): session closed for user root
+Oct 11 06:17:01 titan CRON[13692]: Accepted password for root from 80.10.50.151 port 53256 ssh2
+Oct 11 06:17:01 titan CRON[13692]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 06:17:01 titan CRON[13692]: pam_unix(cron:session): session closed for user root
+Oct 11 06:25:01 titan CRON[13791]: Accepted password for root from 80.10.50.235 port 54499 ssh2
+Oct 11 06:25:01 titan CRON[13791]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 06:25:05 titan CRON[13791]: pam_unix(cron:session): session closed for user root
+Oct 11 06:39:01 titan CRON[14074]: Accepted password for root from 80.10.50.158 port 50224 ssh2
+Oct 11 06:39:01 titan CRON[14074]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 06:39:01 titan CRON[14074]: pam_unix(cron:session): session closed for user root
+Oct 11 06:47:01 titan CRON[14203]: Accepted password for root from 80.10.50.224 port 53012 ssh2
+Oct 11 06:47:01 titan CRON[14203]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 06:47:05 titan CRON[14203]: pam_unix(cron:session): session closed for user root
+Oct 11 07:09:01 titan CRON[14446]: Accepted password for root from 80.10.50.212 port 64252 ssh2
+Oct 11 07:09:01 titan CRON[14446]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 07:09:01 titan CRON[14446]: pam_unix(cron:session): session closed for user root
+Oct 11 07:17:01 titan CRON[14588]: Accepted password for root from 80.10.50.232 port 63089 ssh2
+Oct 11 07:17:01 titan CRON[14588]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 07:17:01 titan CRON[14588]: pam_unix(cron:session): session closed for user root
+Oct 11 07:39:01 titan CRON[14853]: Accepted password for root from 80.10.50.99 port 54237 ssh2
+Oct 11 07:39:01 titan CRON[14853]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 07:39:01 titan CRON[14853]: pam_unix(cron:session): session closed for user root
+Oct 11 07:51:17 titan sshd[15016]: Did not receive identification string from 113.249.113.185
+Oct 11 08:09:01 titan CRON[15246]: Accepted password for root from 80.10.50.149 port 46255 ssh2
+Oct 11 08:09:01 titan CRON[15246]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 08:09:01 titan CRON[15246]: pam_unix(cron:session): session closed for user root
+Oct 11 08:17:01 titan CRON[15385]: Accepted password for root from 80.10.50.140 port 60675 ssh2
+Oct 11 08:17:01 titan CRON[15385]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 08:17:02 titan CRON[15385]: pam_unix(cron:session): session closed for user root
+Oct 11 08:39:01 titan CRON[15658]: Accepted password for root from 80.10.50.156 port 57830 ssh2
+Oct 11 08:39:01 titan CRON[15658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 08:39:01 titan CRON[15658]: pam_unix(cron:session): session closed for user root
+Oct 11 08:41:00 titan sshd[15734]: Did not receive identification string from 88.117.44.147
+Oct 11 09:05:49 titan sshd[15995]: Did not receive identification string from 33.112.40.243
+Oct 11 09:09:01 titan CRON[16023]: Accepted password for root from 80.10.50.11 port 51587 ssh2
+Oct 11 09:09:01 titan CRON[16023]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 09:09:01 titan CRON[16023]: pam_unix(cron:session): session closed for user root
+Oct 11 09:17:01 titan CRON[16167]: Accepted password for root from 80.10.50.205 port 44182 ssh2
+Oct 11 09:17:01 titan CRON[16167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 09:17:01 titan CRON[16167]: pam_unix(cron:session): session closed for user root
+Oct 11 09:26:25 titan proftpd: pam_unix(proftpd:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/ftpd16321 ruser=ftp rhost=41.54.170.33  user=ftp
+Oct 11 09:39:01 titan CRON[16458]: Accepted password for root from 80.10.50.166 port 50557 ssh2
+Oct 11 09:39:01 titan CRON[16458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 09:39:01 titan CRON[16458]: pam_unix(cron:session): session closed for user root
+Oct 11 09:43:10 titan sshd[16538]: Did not receive identification string from 114.128.20.149
+Oct 11 09:47:01 titan CRON[16584]: Accepted password for root from 80.10.50.87 port 50650 ssh2
+Oct 11 09:47:01 titan CRON[16584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 09:47:01 titan CRON[16584]: pam_unix(cron:session): session closed for user root
+Oct 11 09:56:11 titan sshd[16695]: Did not receive identification string from 136.113.115.70
+Oct 11 09:59:42 titan sshd[16724]: Did not receive identification string from 6.42.198.248
+Oct 11 10:09:01 titan CRON[16836]: Accepted password for root from 80.10.50.145 port 61673 ssh2
+Oct 11 10:09:01 titan CRON[16836]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 10:09:01 titan CRON[16836]: pam_unix(cron:session): session closed for user root
+Oct 11 10:17:01 titan CRON[16990]: Accepted password for root from 80.10.50.208 port 53439 ssh2
+Oct 11 10:17:01 titan CRON[16990]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 10:17:01 titan CRON[16990]: pam_unix(cron:session): session closed for user root
+Oct 11 10:34:25 titan sshd[17186]: Did not receive identification string from 25.74.140.73
+Oct 11 10:39:01 titan CRON[17240]: Accepted password for root from 80.10.50.162 port 54807 ssh2
+Oct 11 10:39:01 titan CRON[17240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 10:39:01 titan CRON[17240]: pam_unix(cron:session): session closed for user root
+Oct 11 10:49:33 titan sshd[17404]: Did not receive identification string from 11.1.4.23
+Oct 11 11:09:01 titan CRON[17618]: Accepted password for root from 80.10.50.29 port 61140 ssh2
+Oct 11 11:09:01 titan CRON[17618]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 11:09:01 titan CRON[17618]: pam_unix(cron:session): session closed for user root
+Oct 11 11:11:41 titan sshd[17705]: Did not receive identification string from 54.11.16.80
+Oct 11 11:17:01 titan CRON[17770]: Accepted password for root from 80.10.50.126 port 45369 ssh2
+Oct 11 11:17:01 titan CRON[17770]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 11:17:02 titan CRON[17770]: pam_unix(cron:session): session closed for user root
+Oct 11 11:39:01 titan CRON[18034]: Accepted password for root from 80.10.50.119 port 53071 ssh2
+Oct 11 11:39:01 titan CRON[18034]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 11:39:01 titan CRON[18034]: pam_unix(cron:session): session closed for user root
+Oct 11 11:48:58 titan sshd[18224]: Did not receive identification string from 165.66.59.142
+Oct 11 12:00:01 titan CRON[18333]: Accepted password for root from 80.10.50.219 port 40950 ssh2
+Oct 11 12:00:01 titan CRON[18333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 12:00:01 titan CRON[18333]: pam_unix(cron:session): session closed for user root
+Oct 11 12:09:01 titan CRON[18450]: Accepted password for root from 80.10.50.12 port 54545 ssh2
+Oct 11 12:09:01 titan CRON[18450]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 12:09:01 titan CRON[18450]: pam_unix(cron:session): session closed for user root
+Oct 11 12:17:01 titan CRON[18609]: Accepted password for root from 80.10.50.179 port 42144 ssh2
+Oct 11 12:17:01 titan CRON[18609]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 12:17:01 titan CRON[18609]: pam_unix(cron:session): session closed for user root
+Oct 11 12:39:01 titan CRON[18866]: Accepted password for root from 80.10.50.223 port 51948 ssh2
+Oct 11 12:39:01 titan CRON[18866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 12:39:01 titan CRON[18866]: pam_unix(cron:session): session closed for user root
+Oct 11 13:09:01 titan CRON[19286]: Accepted password for root from 80.10.50.177 port 53451 ssh2
+Oct 11 13:09:01 titan CRON[19286]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 13:09:01 titan CRON[19286]: pam_unix(cron:session): session closed for user root
+Oct 11 13:17:01 titan CRON[19432]: Accepted password for root from 80.10.50.242 port 43347 ssh2
+Oct 11 13:17:01 titan CRON[19432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 13:17:01 titan CRON[19432]: pam_unix(cron:session): session closed for user root
+Oct 11 13:27:37 titan sshd[19553]: Did not receive identification string from 169.216.124.128
+Oct 11 13:39:01 titan CRON[19685]: Accepted password for root from 80.10.50.161 port 55452 ssh2
+Oct 11 13:39:01 titan CRON[19685]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 13:39:01 titan CRON[19685]: pam_unix(cron:session): session closed for user root
+Oct 11 14:09:01 titan CRON[20076]: Accepted password for root from 80.10.50.17 port 44127 ssh2
+Oct 11 14:09:01 titan CRON[20076]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 14:09:01 titan CRON[20076]: pam_unix(cron:session): session closed for user root
+Oct 11 14:17:01 titan CRON[20233]: Accepted password for root from 80.10.50.159 port 56280 ssh2
+Oct 11 14:17:01 titan CRON[20233]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 14:17:01 titan CRON[20233]: pam_unix(cron:session): session closed for user root
+Oct 11 14:39:01 titan CRON[20480]: Accepted password for root from 80.10.50.130 port 42959 ssh2
+Oct 11 14:39:01 titan CRON[20480]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 14:39:02 titan CRON[20480]: pam_unix(cron:session): session closed for user root
+Oct 11 15:09:01 titan CRON[20842]: Accepted password for root from 80.10.50.58 port 45910 ssh2
+Oct 11 15:09:01 titan CRON[20842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 15:09:01 titan CRON[20842]: pam_unix(cron:session): session closed for user root
+Oct 11 15:17:01 titan CRON[20996]: Accepted password for root from 80.10.50.146 port 42667 ssh2
+Oct 11 15:17:01 titan CRON[20996]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 15:17:01 titan CRON[20996]: pam_unix(cron:session): session closed for user root
+Oct 11 15:39:01 titan CRON[21235]: Accepted password for root from 80.10.50.69 port 58449 ssh2
+Oct 11 15:39:01 titan CRON[21235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 15:39:01 titan CRON[21235]: pam_unix(cron:session): session closed for user root
+Oct 11 16:04:20 titan sshd[21588]: Did not receive identification string from 174.139.137.165
+Oct 11 16:09:01 titan CRON[21635]: Accepted password for root from 80.10.50.73 port 51367 ssh2
+Oct 11 16:09:01 titan CRON[21635]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 16:09:01 titan CRON[21635]: pam_unix(cron:session): session closed for user root
+Oct 11 16:17:01 titan CRON[21789]: Accepted password for root from 80.10.50.187 port 64832 ssh2
+Oct 11 16:17:01 titan CRON[21789]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 16:17:01 titan CRON[21789]: pam_unix(cron:session): session closed for user root
+Oct 11 16:39:01 titan CRON[22042]: Accepted password for root from 80.10.50.212 port 57821 ssh2
+Oct 11 16:39:01 titan CRON[22042]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 16:39:01 titan CRON[22042]: pam_unix(cron:session): session closed for user root
+Oct 11 17:09:01 titan CRON[22421]: Accepted password for root from 80.10.50.48 port 54541 ssh2
+Oct 11 17:09:01 titan CRON[22421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 17:09:01 titan CRON[22421]: pam_unix(cron:session): session closed for user root
+Oct 11 17:17:01 titan CRON[22568]: Accepted password for root from 80.10.50.147 port 43382 ssh2
+Oct 11 17:17:01 titan CRON[22568]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 17:17:01 titan CRON[22568]: pam_unix(cron:session): session closed for user root
+Oct 11 17:39:01 titan CRON[22841]: Accepted password for root from 80.10.50.200 port 62869 ssh2
+Oct 11 17:39:01 titan CRON[22841]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 17:39:02 titan CRON[22841]: pam_unix(cron:session): session closed for user root
+Oct 11 18:09:01 titan CRON[23244]: Accepted password for root from 80.10.50.52 port 44033 ssh2
+Oct 11 18:09:01 titan CRON[23244]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 18:09:01 titan CRON[23244]: pam_unix(cron:session): session closed for user root
+Oct 11 18:17:01 titan CRON[23391]: Accepted password for root from 80.10.50.20 port 64677 ssh2
+Oct 11 18:17:01 titan CRON[23391]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 18:17:01 titan CRON[23391]: pam_unix(cron:session): session closed for user root
+Oct 11 18:39:01 titan CRON[23639]: Accepted password for root from 80.10.50.133 port 51738 ssh2
+Oct 11 18:39:01 titan CRON[23639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 18:39:01 titan CRON[23639]: pam_unix(cron:session): session closed for user root
+Oct 11 19:09:01 titan CRON[24003]: Accepted password for root from 80.10.50.232 port 56484 ssh2
+Oct 11 19:09:01 titan CRON[24003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 19:09:01 titan CRON[24003]: pam_unix(cron:session): session closed for user root
+Oct 11 19:17:01 titan CRON[24148]: Accepted password for root from 80.10.50.156 port 42665 ssh2
+Oct 11 19:17:01 titan CRON[24148]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 19:17:01 titan CRON[24148]: pam_unix(cron:session): session closed for user root
+Oct 11 19:39:01 titan CRON[24424]: Accepted password for root from 80.10.50.60 port 62560 ssh2
+Oct 11 19:39:01 titan CRON[24424]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 19:39:01 titan CRON[24424]: pam_unix(cron:session): session closed for user root
+Oct 11 20:09:01 titan CRON[24825]: Accepted password for root from 80.10.50.232 port 41644 ssh2
+Oct 11 20:09:01 titan CRON[24825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 20:09:01 titan CRON[24825]: pam_unix(cron:session): session closed for user root
+Oct 11 20:17:01 titan CRON[24966]: Accepted password for root from 80.10.50.72 port 42577 ssh2
+Oct 11 20:17:01 titan CRON[24966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 20:17:01 titan CRON[24966]: pam_unix(cron:session): session closed for user root
+Oct 11 20:39:01 titan CRON[25213]: Accepted password for root from 80.10.50.77 port 59725 ssh2
+Oct 11 20:39:01 titan CRON[25213]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 20:39:01 titan CRON[25213]: pam_unix(cron:session): session closed for user root
+Oct 11 21:09:01 titan CRON[25578]: Accepted password for root from 80.10.50.52 port 56200 ssh2
+Oct 11 21:09:01 titan CRON[25578]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 21:09:01 titan CRON[25578]: pam_unix(cron:session): session closed for user root
+Oct 11 21:17:01 titan CRON[25731]: Accepted password for root from 80.10.50.16 port 56159 ssh2
+Oct 11 21:17:01 titan CRON[25731]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 21:17:01 titan CRON[25731]: pam_unix(cron:session): session closed for user root
+Oct 11 21:39:01 titan CRON[25975]: Accepted password for root from 80.10.50.180 port 50475 ssh2
+Oct 11 21:39:01 titan CRON[25975]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 21:39:01 titan CRON[25975]: pam_unix(cron:session): session closed for user root
+Oct 11 22:09:01 titan CRON[26380]: Accepted password for root from 80.10.50.86 port 48049 ssh2
+Oct 11 22:09:01 titan CRON[26380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 22:09:01 titan CRON[26380]: pam_unix(cron:session): session closed for user root
+Oct 11 22:17:01 titan CRON[26526]: Accepted password for root from 80.10.50.49 port 46566 ssh2
+Oct 11 22:17:01 titan CRON[26526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 22:17:01 titan CRON[26526]: pam_unix(cron:session): session closed for user root
+Oct 11 22:39:01 titan CRON[26779]: Accepted password for root from 80.10.50.154 port 52326 ssh2
+Oct 11 22:39:01 titan CRON[26779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 22:39:01 titan CRON[26779]: pam_unix(cron:session): session closed for user root
+Oct 11 23:09:01 titan CRON[27153]: Accepted password for root from 80.10.50.181 port 51279 ssh2
+Oct 11 23:09:01 titan CRON[27153]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 23:09:01 titan CRON[27153]: pam_unix(cron:session): session closed for user root
+Oct 11 23:17:01 titan CRON[27299]: Accepted password for root from 80.10.50.107 port 42187 ssh2
+Oct 11 23:17:01 titan CRON[27299]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 23:17:01 titan CRON[27299]: pam_unix(cron:session): session closed for user root
+Oct 11 23:39:01 titan CRON[27707]: Accepted password for root from 80.10.50.175 port 55290 ssh2
+Oct 11 23:39:01 titan CRON[27707]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 23:39:01 titan CRON[27707]: pam_unix(cron:session): session closed for user root
+Oct 12 00:00:01 titan CRON[27966]: Accepted password for root from 80.10.50.29 port 44446 ssh2
+Oct 12 00:00:01 titan CRON[27966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 00:00:01 titan CRON[27966]: pam_unix(cron:session): session closed for user root
+Oct 12 00:09:01 titan CRON[28091]: Accepted password for root from 80.10.50.194 port 41739 ssh2
+Oct 12 00:09:01 titan CRON[28091]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 00:09:02 titan CRON[28091]: pam_unix(cron:session): session closed for user root
+Oct 12 00:17:01 titan CRON[28224]: Accepted password for root from 80.10.50.80 port 48270 ssh2
+Oct 12 00:17:01 titan CRON[28224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 00:17:01 titan CRON[28224]: pam_unix(cron:session): session closed for user root
+Oct 12 00:39:01 titan CRON[28463]: Accepted password for root from 80.10.50.151 port 54441 ssh2
+Oct 12 00:39:01 titan CRON[28463]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 00:39:01 titan CRON[28463]: pam_unix(cron:session): session closed for user root
+Oct 12 01:09:01 titan CRON[28849]: Accepted password for root from 80.10.50.53 port 56436 ssh2
+Oct 12 01:09:01 titan CRON[28849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 01:09:01 titan CRON[28849]: pam_unix(cron:session): session closed for user root
+Oct 12 01:17:01 titan CRON[28994]: Accepted password for root from 80.10.50.134 port 50040 ssh2
+Oct 12 01:17:01 titan CRON[28994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 01:17:01 titan CRON[28994]: pam_unix(cron:session): session closed for user root
+Oct 12 01:39:01 titan CRON[29389]: Accepted password for root from 80.10.50.72 port 57879 ssh2
+Oct 12 01:39:01 titan CRON[29389]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 01:39:01 titan CRON[29389]: pam_unix(cron:session): session closed for user root
+Oct 12 02:09:01 titan CRON[29825]: Accepted password for root from 80.10.50.18 port 47953 ssh2
+Oct 12 02:09:01 titan CRON[29825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 02:09:01 titan CRON[29825]: pam_unix(cron:session): session closed for user root
+Oct 12 02:17:01 titan CRON[29961]: Accepted password for root from 80.10.50.80 port 40240 ssh2
+Oct 12 02:17:01 titan CRON[29961]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 02:17:01 titan CRON[29961]: pam_unix(cron:session): session closed for user root
+Oct 12 02:39:01 titan CRON[30193]: Accepted password for root from 80.10.50.168 port 63454 ssh2
+Oct 12 02:39:01 titan CRON[30193]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 02:39:01 titan CRON[30193]: pam_unix(cron:session): session closed for user root
+Oct 12 03:09:01 titan CRON[30569]: Accepted password for root from 80.10.50.96 port 55125 ssh2
+Oct 12 03:09:01 titan CRON[30569]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 03:09:02 titan CRON[30569]: pam_unix(cron:session): session closed for user root
+Oct 12 03:17:01 titan CRON[30700]: Accepted password for root from 80.10.50.65 port 40949 ssh2
+Oct 12 03:17:01 titan CRON[30700]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 03:17:01 titan CRON[30700]: pam_unix(cron:session): session closed for user root
+Oct 12 03:39:01 titan CRON[30990]: Accepted password for root from 80.10.50.2 port 62007 ssh2
+Oct 12 03:39:01 titan CRON[30990]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 03:39:01 titan CRON[30990]: pam_unix(cron:session): session closed for user root
+Oct 12 04:09:01 titan CRON[31380]: Accepted password for root from 80.10.50.253 port 45081 ssh2
+Oct 12 04:09:01 titan CRON[31380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 04:09:01 titan CRON[31380]: pam_unix(cron:session): session closed for user root
+Oct 12 04:17:01 titan CRON[31538]: Accepted password for root from 80.10.50.185 port 63606 ssh2
+Oct 12 04:17:01 titan CRON[31538]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 04:17:01 titan CRON[31538]: pam_unix(cron:session): session closed for user root
+Oct 12 04:39:01 titan CRON[31831]: Accepted password for root from 80.10.50.114 port 55652 ssh2
+Oct 12 04:39:01 titan CRON[31831]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 04:39:01 titan CRON[31831]: pam_unix(cron:session): session closed for user root
+Oct 12 05:09:01 titan CRON[32197]: Accepted password for root from 80.10.50.117 port 42629 ssh2
+Oct 12 05:09:01 titan CRON[32197]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 05:09:01 titan CRON[32197]: pam_unix(cron:session): session closed for user root
+Oct 12 05:17:01 titan CRON[32332]: Accepted password for root from 80.10.50.93 port 63854 ssh2
+Oct 12 05:17:01 titan CRON[32332]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 05:17:01 titan CRON[32332]: pam_unix(cron:session): session closed for user root
+Oct 12 05:39:01 titan CRON[32585]: Accepted password for root from 80.10.50.178 port 40729 ssh2
+Oct 12 05:39:01 titan CRON[32585]: pam_unix(cron:session): session opened for user root by (uid=0)
